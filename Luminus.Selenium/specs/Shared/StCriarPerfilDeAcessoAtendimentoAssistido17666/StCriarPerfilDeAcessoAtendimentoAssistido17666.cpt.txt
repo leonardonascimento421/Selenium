@@ -1,0 +1,21 @@
+# ST - Criar perfil de acesso - atendimento assistido <tabela> [17666]
+Criado pelo gerador 03/12/2019 23:59:59
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarPerfilDeAcessoAtendimentoAssistidoPageStep]
+Na tela Criar perfil de acesso do sistema preencher o campo Nome com o valor <nomeperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Início com o valor <inicioperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Abrir estadia com o valor <abrirestadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Fechar estadia com o valor <fecharestadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Passagem estadia com o valor <passagemestadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Validar estadia com o valor <validarestadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Transferir estadia com o valor <transferirestadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Aditar contrato com o valor <aditarcontratoperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Tratar mídia perdida com o valor <tratarmidia> perdida_perfisdeacessodosistema
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Chamar veículo com o valor <chamarveiculoperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox Devolver veículo com o valor <devolverveiculoperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox DeixarVeiculo com o valor <deixarVeiculoperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Atendimento assistido na categoria Atendimento assistido marcar o checkbox MarcarVeiculoComoPronto com o valor <marcarVeiculoComoProntoperfisdeacessodosistema>
+* Clicar no botão Salvar
+

@@ -1,0 +1,14 @@
+# SS - Aditamento de contrato de estadia de Produto de estadia 'Quantidade de dias (Mifare) <tabela> [17967]
+Criado pelo gerador 09/03/2020 10:35:42
+
+* Clicar no menu de contexto (...) na linha contendo o valor "" na tabela
+* Clicar no botão Alterar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaQuantidadeDeDiasMifareStepByStepPageStep]
+No pop-up Adicionar validação ao contrato de estadia preencher o campo Valor recebido com valor <valorRecebidoAditamentoContratosEstadia>
+No pop-up Adicionar validação ao contrato de estadia preencher o campo Validado até com valor <validadoAteAditamentoContratosEstadia>
+No pop-up Adicionar validação ao contrato de estadia clicar no combobox Meio de pagamento e selecionar o valor <meioPagamentoAditamentoContratosEstadia>
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+

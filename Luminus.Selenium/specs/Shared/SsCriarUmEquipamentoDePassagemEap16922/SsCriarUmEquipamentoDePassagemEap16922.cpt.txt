@@ -1,0 +1,65 @@
+# SS - Criar um Equipamento de passagem (EAP) <tabela> [16922]
+Criado pelo gerador 26/12/2019 09:44:51
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoDePassagemEapStepByStepPageStep]
+Na seção Informações gerais  preencher o campo Número do equipamento com o valor <numeroEquipamentosEAPassagem>
+Na seção Informações gerais  preencher o campo Nome com o valor <nomeEquipamentosEAPassagem>
+Na seção Informações gerais  preencher o campo Endereço IP com o valor <enderecoIPEquipamentosEAPassagem>
+Na seção Informações gerais  preencher o campo Máscara IP com o valor <mascaraIPEquipamentosEAPassagem>
+Na seção Informações gerais  preencher o campo IP do gateway com o valor <iPGatewayEquipamentosEAPassagem>
+Na seção Informações gerais marcar o checkbox Habilitado do campo Modelo do equipamento com o valor <habilitadoEquipamentosEAPassagem>
+Na seção Operação geral no combobox Aplicativo do equipamento selecionar a opção <nomeAplicativoVersao>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Passagem com o valor <funcaoOperacaoEquipamentoEAPassagem>
+Na seção Operação geral no campo Limite de transações off-line marcar o checkbox Sem limite com o valor <semLimiteTransacoesOffLineEquipamentosEAPassagem>
+Na seção Operação geral preencher o campo Número do setor spacenet com o valor <numeroSetorSpacenetEquipamentosEAPassagem>
+Na seção Operação de acesso preencher o campo das do rótulo Período de funcionamento com o valor <periodoFuncionamentoDasEquipamentosEAPassagem>
+Na seção Operação de acesso preencher o campo das do rótulo Período de funcionamento com o valor <periodoFuncionamentoAsEquipamentosEAPassagem>
+Na seção Operação de acesso no combobox Modo de acionamento do equipamento selecionar a opção <modoAcionamanetoEquipamentoEquipamentosEAPassagem>
+Na seção Operação de acesso marcar o checkbox Detecção de moto com o valor <deteccaoMotoEquipamentosEAPassagem>
+Na seção Operação de acesso marcar o checkbox Acesso como passagem especial com o valor <acessoPassagemEspecialEquipamentosEAPassagem>
+Na seção Operação de acesso marcar o checkbox Somente tag Nepos com o valor <somenteTAGNeposEquipamentosEAPassagem>
+Na seção Operação de acesso desmarcar o checkbox Possui escape/gate mode com o valor <possuiEscapeGateModeEquipamentosEAPassagem>
+Na seção Operação de acesso no combobox Acesso bolsão principal selecionar a opção <nomeBolsaoDeVagas>
+Na seção Configuração da cancela de saída marcar o checkbox Possui cancela com o valor <possuiCancelaEquipamentosEAPassagem>
+Na seção Configuração da cancela de saída marcar o checkbox Auto parada com o valor <autoParadaEquipamentosEAPassagem>
+Na seção Configuração da cancela de saída marcar o checkbox Inicia nova transação com veículos sobre o laço de fechamento com o valor <iniciaNovaTransacaoVeiculoSobreLacoEquipamentosEAPassagem>
+Na seção Configuração da cancela de saída marcar o checkbox Inicia nova transação após fechamento total da cancela com o valor <iniciaNovaAposFechamentoTotalCancelaEquipamentosEAPassagem>
+Na seção Configuração da cancela de saída marcar o checkbox Existe laço para acionamento do equipamento com o valor <existeLacoAcionamentoEquipamentoEquipamentosEAPassagem>
+Na seção Configuração da cancela de saída marcar o checkbox Existe laço de fechamento da cancela com o valor <existeLacoFechamentoCancelaEquipamentosEAPassagem>
+Na seção Configuração da cancela de saída marcar o checkbox Aguardar sinal de cancela fechada com o valor <aguardarSinalCancelaFechadaEquipamentosEAPassagem>
+Na seção Configuração da cancela de saída preencher o campo Tempo limite para resposta da cancela (seg) com o valor <tempoLimiteRespostaCancelaEquipamentosEAPassagem>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoDePassagemEapStepByStepPageStep] [16922]
+No combobox Tipo do periférico selecionar a opção <leitorMifareEquipamentosEAPassagem>
+Marcar o checkbox Periférico principal do combobox Tipo do periférico com o valor <perifericoPrincipalLeitorMifareEquipamentosEAPassagem>
+Marcar o checkbox Habilitar com o valor <habilitarPerifericoLeitorMifareEquipamentoEAPassagem>
+Na seção Leitor mifare no combobox Modelo do leitor selecionar a opção <modeloLeitorMifareEquipamentosEAPassagem>
+Na seção Leitor mifare preencher o campo Porta serial com o valor <portaSerialLeitorMifareEquipamentosEAPassagem>
+Na seção Leitor mifare no combobox Modelo do bocal selecionar a opção <modeloBocalLeitorMifareEquipamentosEAPassagem>
+Na seção Leitor mifare preencher o campo Tempo de espera na esteira(ciclos/seg) com o valor <tempoEsperaEsteiraEquipamentosEAPassagem>
+Na seção Leitor mifare preencher o campo Tempo de aguardo para emissão(ciclos/seg) com o valor <tempoAguardoEmissaoEquipamentosEAPassagem>
+* Clicar no botão Adicionar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoDePassagemEapStepByStepPageStep] [16922]
+No combobox Tipo do periférico selecionar a opção <leitorProximidadeEquipamentosEAPassagem>
+Marcar o checkbox Habilitar com o valor <habilitarLeitorProximidadeEquipamentosEAPassagem>
+Na seção Leitor de proximidade no combobox Modelo do leitor selecionar a opção <modeloLeitorProximidadeEquipamentosEAPassagem>
+Na seção Leitor de proximidade no campo Porta serial preencher com o valor <portaSerailLeitorProximidadeEquipamentosEAPassagem>
+* Clicar no botão Adicionar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoDePassagemEapStepByStepPageStep] [16922]
+No combobox Tipo do periférico selecionar a opção <interfoneVoipEquipamentosEAPassagem>
+Marcar o checkbox Habilitar com o valor <habilitarInterfoneVoipEquipamentosEAPassagem>
+Na seção Interfone Voip no combobox Interfone Voip selecionar a opção <modeloInterfoneVoipEquipamentosEAPassagem>
+Na seção Interfone Voip preencher o campo Endereço IP com o valor <enderecoIPLeitorProximidadeEquipamentosEAPassagem>
+Na seção Interfone Voip preencher o campo Código com o valor <codigoLeitorProximidadeEquipamentosEAPassagem>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoDePassagemEapStepByStepPageStep] [16922]
+Na seção Configurações de suporte marcar o checkbox Mostrar detalhes de espera após tecla acionada com o valor <mostrarDetalhesEsperaAposTeclaAcionadaEquipamentosEAPassagem>
+Na seção Configurações de suporte marcar o checkbox Alternar entre mensagem e detalhes de espera com o valor <alternarMensagemDetalhesEsperaEquipamentosEAPassagem>
+Na seção Configurações de suporte preencher o campo Tempo para mostrar detalhes de erro (seg) com o valor <tempoMostrarDetalhesErroEquipamentosEAPassagem>
+Na seção Configurações de suporte preencher o campo Tempo para mostrar detalhes de espera (seg) com o valor <tempoMostrarDetalhesEsperaEquipamentosEAPassagem>
+* Clicar no botão Salvar
+

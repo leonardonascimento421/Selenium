@@ -1,0 +1,13 @@
+# SS - Aditamento de contrato de estadia de Produto de estadia <tabela> [17930]
+Criado pelo gerador 09/03/2020 10:35:42
+
+* Clicar no menu de contexto (...) na linha contendo o valor "" na tabela
+* Clicar no botão Alterar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaPageStep]
+no popup Adicionar validação ao contrato de estadia clicar no combobox Opção de revalidação e selecionar o valor <opcaoderevalidacaocontratosestadia>
+no popup Adicionar validação ao contrato de estadia clicar no combobox Meio de pagamento e selecionar o valor <meiodepagamentocontratosestadia>
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+

@@ -1,0 +1,29 @@
+# SS - Criar um equipamento passagem (EAP -Informatizado) <tabela> [17939]
+Criado pelo gerador 26/12/2019 09:44:51
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoPassagemEapInformatizadoPageStep]
+Na seção Informações gerais  preencher o campo Número do equipamento com o valor <numeroDoEquipamentoEAPInformatizado>
+Na seção Informações gerais  preencher o campo Nome com o valor <nomeEquipamentoEAPInformatizado>
+Na seção Informações gerais  preencher o campo Endereço IP com o valor <enderecoIPEAPInformatizado>
+Na seção Informações gerais  preencher o campo Máscara IP com o valor <mascaraIPEAPInformatizado>
+Na seção Informações gerais  preencher o campo IP do gateway com o valor <iPDoGatewayEAPInformatizado>
+Na seção Informações gerais marcar o checkbox Habilitado do campo Modelo do equipamento com o valor <habilitadoEAPInformatizado>
+Na seção Operação geral no combobox Aplicativo do equipamento selecionar a opção <aplicativoDoEquipamentoEAPInformatizado>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Passagem com o valor <funcaoDeOperacaoPassagemAplicativoDoEquipamentoEAPInformatizado>
+Na seção Configuração do informatizado selecionar o combobox Tipo do informatizado com o valor <tipoDoInformatizadoEAPInformatizado>
+Na seção Operação de acesso preencher o campo das do rótulo Período de funcionamento com o valor <periodoDeFuncionamentoDasEAPInformatizado>
+Na seção Operação de acesso preencher o campo ás do rótulo Período de funcionamento com o valor <periodoDeFuncionamentoAsEAPInformatizado>
+Na seção Operação de acesso desmarcar o checkbox Possui escape/gate mode com o valor <possuiEscapeGateModeEAPInformatizado>
+Na seção Operação de acesso no combobox Acesso bolsão principal selecionar a opção <nomeBolsaoDeVagas>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoPassagemEapInformatizadoPageStep] [17939]
+No combobox Tipo do periférico selecionar a opção <impressoraEAPInformatizado>
+Marcar o checkbox Periférico principal do combobox Tipo do periférico com o valor <perifericoPrincipalImpressoraEAPInformatizado>
+Marcar o checkbox Habilitar com o valor <habilitarImpressoraEAPInformatizado>
+Na seção Impressora no combobox Modelo da impressora selecionar a opção <modeloDaImpressoraEAPInformatizado>
+Na seção Impressora preencher o campo Porta Serial com o valor <portaSerialEAPInformatizado>
+* Clicar no botão Adicionar
+* Clicar no botão Salvar
+

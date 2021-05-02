@@ -1,0 +1,10 @@
+# ST - Criar perfil com acesso a Relatórios customizados <tabela> [17677]
+Criado pelo gerador 04/12/2019 00:00:00
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarPerfilComAcessoARelatoriosCustomizadosStepByStepPageStep]
+Na tela Criar perfil de acesso do sistema preencher o campo Nome com o valor <nomeperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Relatórios customizados na categoria Comum marcar o checkbox Consultar com o valor <consultarperfisdeacessodosistema>
+* Clicar no botão Salvar
+

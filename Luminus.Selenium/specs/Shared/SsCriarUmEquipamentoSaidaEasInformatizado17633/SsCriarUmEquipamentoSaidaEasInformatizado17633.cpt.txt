@@ -1,0 +1,29 @@
+# SS - Criar um equipamento saída EAS (informatizado) <tabela> [17633]
+Criado pelo gerador 26/12/2019 09:44:51
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoSaidaEasInformatizadoStepByStepPageStep]
+Na seção Informações gerais preencher o campo Número do equipamento com o valor <numeroEquipamentosEASInformatizado>
+Na seção Informações gerais preencher o campo Nome com o valor <nomeEquinpamentosEASInformatizado>
+* Na seção Informações gerais o CheckBox Habilitado deve permanecer com o valor <habilitadoEquipamentosEASInformatizado> [CriarUmEquipamentoSaidaEasInformatizadoStepByStepPageStep]
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoSaidaEasInformatizadoStepByStepPageStep] [17633]
+Na seção Operação geral  selecionar no combobox Aplicativo do equipamento o valor <aplicativoInformatizadoEquipamento>
+Na seção Operação geral no campo Funções de operação marcar o CheckBox Saída com o valor <funcaoOperacaoValicadaoEquipamentosEASInformatizado>
+Na seção Configurações de informatizado clicar no combobox Tipo de informatizado selecionar o valor <tipoInformatizadoEquipamento>
+Na seção Configurações de informatizado clicar no combobox Usuário dos sistema responsável selecionar o valor <nomeUsuarioSistema>
+Na seção Operação de acesso preencher o campo Período de funcionamento 'das'  com o valor <periodoFuncionamentoDasEquipamento>
+Na seção Operação de acesso preencher o campo Período de funcionamento 'às'  com o valor <periodoFuncionamentoAsEquipamento>
+Na seção Operação de acesso marcar o checkbox Possui escape/gate mode com o valor <possuiEscapeGateModeEquipamento>
+Na seção Operação de acesso clicar no combobox Acesso bolsão principal selecionar o valor <nomeBolsaoDeVagas>
+Na seção Operação de acesso clicar no combobox Acesso bolsão principal selecionar o valor <acessoBolsaoSecundarioEquipamento>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoSaidaEasInformatizadoStepByStepPageStep] [17633]
+No pop-up Adicionar periférico clicar no combobox Tipo do periférico e selecionar o valor <tipoPerifericoInformatizadoEquipamento>
+No pop-up Adicionar periférico marcar o checkbox Periférico principal com o valor <perifericoPrincipalInformatizadoEquipamento>
+No pop-up Adicionar periférico marcar o checkbox Habilitar com o valor <habilitarInformatizadoEquipamento>
+No pop-up Adicionar periférico na seção Impressora clicar no combobox Modelo da impressora e selecionar o valor <modeloImpressoraInformatizadoEquipamento>
+No pop-up Adicionar periférico na seção Impressora preencher o campo Porta serial com o valor <portaSerialInformatizadoEquipamento>
+* Clicar no botão Adicionar
+* Clicar no botão Salvar
+

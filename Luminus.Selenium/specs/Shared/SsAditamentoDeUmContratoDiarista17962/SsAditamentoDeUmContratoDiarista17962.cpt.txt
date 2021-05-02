@@ -1,0 +1,14 @@
+# SS - Aditamento de um contrato diarista <tabela> [17962]
+Criado pelo gerador 09/03/2020 10:35:42
+
+* Clicar no menu de contexto (...) na linha contendo o valor "" na tabela
+* Clicar no botão Alterar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [AditamentoDeUmContratoDiaristaPageStep]
+No popup Adicionar validação ao contrato de estadia preencher o campo Valor recebido com o valor <valorrecebidocontratosestadia>
+No popup Adicionar validação ao contrato de estadia preencher o campo Validado até com o valor <validadoatecontratosestadia>
+no popup Adicionar validação ao contrato de estadia clicar no combobox Meio de pagamento e selecionar o valor <meiodepagamentocontratosestadia>
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+

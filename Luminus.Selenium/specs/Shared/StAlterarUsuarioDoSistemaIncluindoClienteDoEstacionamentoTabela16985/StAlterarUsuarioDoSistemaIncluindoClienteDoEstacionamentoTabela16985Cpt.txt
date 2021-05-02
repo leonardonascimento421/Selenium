@@ -1,0 +1,11 @@
+# ST - Alterar usuário do sistema incluindo cliente do estacionamento <tabela> [16985]
+Criado pelo gerador 14/11/2019 14:28:30
+
+* Navegar para ""
+* Alterar consultando por <loginUsuariosDoSistema> na listagem [16985]
+* Preencher os campos da tela Alterar usuário do sistema incluindo cliente do estacionamento <tabela>
+Na seção Cliente do Estacionamento selecionar no combobox Cliente do Estacionamento o valor <nomeClienteDoEstacionamentoCNPJ>
+Na seção Cliente do Estacionamento marcar o checkbox Usuário pode aplicar múltiplos descontos o valor <usuarioPodeAplicarMultiplosDescontosClienteDoEstacionamento>
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+

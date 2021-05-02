@@ -1,0 +1,36 @@
+# SS - Criar uma Estrutura de cobrança <tabela> [16003]
+Criado pelo gerador 20/01/2020 12:02:57
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher o campo 'Nome' com o valor <nomeEstruturaCobranca> [CriarUmaEstruturaDeCobrancaStepByStepPageStep]
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmaEstruturaDeCobrancaStepByStepPageStep]
+Na seção Estruturas | Estrutura 1 - Marcar os CheckBox com o rotulo Dias Válidos <domingoEstrutura1> <segundaEstrutura1> <tercaEstrutura1> <quartaEstrutura1> <quintaEstrutura1> <sextaEstrutura1> <sabadoEstrutura1>
+Na seção Período 1 - Preencher o campo 'Início': <horaMinutoPeriodo1>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmaEstruturaDeCobrancaStepByStepPageStep] [16003]
+Preencher o campo 'Duração' com o valor <fracaoDuracao1Periodo1>
+Preencher o campo 'Repetição' com o valor <fracaoDuracao1RepeticaoPeriodo1>
+* Clicar no botão Salvar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmaEstruturaDeCobrancaStepByStepPageStep] [16003]
+Preencher o campo 'Duração' com o valor <fracaoDuracao2Periodo1>
+Preencher o campo 'Repetição' com o valor <fracaoDuracao2RepeticaoPeriodo1>
+Marcar o CheckBox 'Fração inicial para o período anterior': <fracaoDuracao2FracaoInicialParaOPeriodoAnteriorPeriodo1>
+* Clicar no botão Salvar
+* Preencher os campos da tela <tabela> [CriarUmaEstruturaDeCobrancaStepByStepPageStep] [16003]
+Na seção Período 1 - com o rótulo 'Intervalo das repetições neste período' selecionar no ComboBox 'De' a opção <periodo1De>
+Na Seção Período 1 - com o rótulo 'Intervalo das repetições neste período' selecionar no ComboBox a opção <periodo1Ate>
+* Clicar no botão Adicionar
+* Na seção Período 2 - Preencher o campo Início com o valor <horaMinutoPeriodo2> [CriarUmaEstruturaDeCobrancaStepByStepPageStep]
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmaEstruturaDeCobrancaStepByStepPageStep] [16003]
+Preencher o campo 'Duração' com o valor <fracaoDuracao1Periodo2>
+Preencher o campo 'Repetição' com o valor <fracaoDuracao1RepeticaoPeriodo2>
+* Clicar no botão Salvar
+* Preencher os campos da tela <tabela> [CriarUmaEstruturaDeCobrancaStepByStepPageStep] [16003]
+Na Seção Período 2 - com o rótulo 'Intervalo das repetições neste período' selecionar no ComboBox De a opção <periodo2De>
+Na Seção Período 2 - com o rótulo 'Intervalo das repetições neste período' selecionar no ComboBox Até opção <periodo2Ate>
+* Clicar no botão Salvar
+

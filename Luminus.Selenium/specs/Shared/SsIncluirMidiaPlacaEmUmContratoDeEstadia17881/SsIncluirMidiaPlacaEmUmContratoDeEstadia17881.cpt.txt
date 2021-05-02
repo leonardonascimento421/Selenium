@@ -1,0 +1,18 @@
+# SS - Incluir mídia Placa em um contrato de estadia <tabela> [17881]
+Criado pelo gerador 09/03/2020 10:35:42
+
+* Clicar no menu de contexto (...) na linha contendo o valor "" na tabela
+* Clicar no botão Alterar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [IncluirMidiaMifareEmUmContratoDeEstadiaStepByStepPageStep]
+No pop-up Adicionar mídia de acesso clicar no combobox Tipo da mídia de acesso e selecionar o valor <tipoDeMidiaDeAcessoContratoEstadia>
+No pop-up Adicionar mídia de acesso preencher o campo Código do cartão com o valor <codigoDoCartaoContratoEstadia>
+* Clicar no botão Salvar
+* Preencher os campos da tela <tabela> [IncluirMidiaMifareEmUmContratoDeEstadiaStepByStepPageStep] [17860]
+No pop-up Gravar cartão de acesso mifare preencher o campo Data de expiração com o valor <dataDeExpiracaoContratoEstadia>
+No pop-up Gravar cartão de acesso mifare selecionar o combobox Motivo da gravação com o valor <motivoDaGravacaoContratoEstadia>
+No pop-up Gravar cartão de acesso mifare selecionar o combobox Situação da estadia atual com o valor <situacaoDaEstadiaAtualContratoEstadia>
+* Clicar no botão gravar [IncluirMidiaMifareEmUmContratoDeEstadiaStepByStepPageStep]
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+

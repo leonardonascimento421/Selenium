@@ -1,0 +1,1 @@
+Pasta onde os arquivos .csv serão agrupados para a execução do teste

@@ -1,0 +1,54 @@
+# SS - Criar equipamento de entrada (EAE) Mifare step by step <tabela> [16899]
+Criado pelo gerador 26/12/2019 09:44:51
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarEquipamentoDeEntradaEaeMifareStepByStepPageStep]
+Na seção Informações gerais  preencher o campo Número do equipamento com o valor <numeroDoEquipamentoEquipamentoEAEMifare>
+Na seção Informações gerais  preencher o campo Nome com o valor <nomeEquipamentoEAEMifare>
+Na seção Informações gerais  preencher o campo Endereço IP com o valor <enderecoIPEquipamentoEAEMifare>
+Na seção Informações gerais  preencher o campo Máscara IP com o valor <mascaraIPEquipamentoEAEMifare>
+Na seção Informações gerais  preencher o campo IP do gateway com o valor <iPDoGatewayEquipamentoEAEMifare>
+Na seção Informações gerais marcar o checkbox Habilitado do campo Modelo do equipamento com o valor <habilitadoEquipamentoEAEMifare>
+Na seção Operação geral no combobox Aplicativo do equipamento selecionar a opção <aplicativoDoEquipamentoEquipamentoEAEMifare>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Entrada com o valor <funcaoDeOperacaoEntradaAplicativoDoEquipamentoEquipamentoEAEMifare>
+Na seção Operação geral no campo Limite de transações off-line marcar o checkbox Sem limite com o valor <semLimiteTransacoesOffLineEquipamentoEAEMifare>
+Na seção Operação geral preencher o campo Número do setor spacenet com o valor <numeroDoSetorSpacenetEquipamentoEAEMifare>
+Na seção Operação de acesso preencher o campo das do rótulo Período de funcionamento com o valor <periodoDeFuncionamentoDasEquipamentoEAEMifare>
+Na seção Operação de acesso preencher o campo ás do rótulo Período de funcionamento com o valor <periodoDeFuncionamentoAsEquipamentoEAEMifare>
+Na seção Operação de acesso no combobox Modo de acionamento do equipamento selecionar a opção <modoDeAcionamentoDoEquipamentoEquipamentoEAEMifare>
+Na seção Operação de acesso marcar o checkbox Detecção de moto com o valor <deteccaoDeMotoEquipamentoEAEMifare>
+Na seção Operação de acesso marcar o checkbox Somente tag Nepos com o valor <somenteTagNeposEquipamentoEAEMifare>
+Na seção Operação de acesso desmarcar o checkbox Possui escape/gate mode com o valor <possuiEscapeGateModeEquipamentoEAEMifare>
+Na seção Operação de acesso no combobox Acesso bolsão principal selecionar a opção <nomeBolsaoDeVagas>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarEquipamentoDeEntradaEaeMifareStepByStepPageStep] [16899]
+No combobox Tipo do periférico selecionar a opção <leitorMifareEquipamentoEAEMifare>
+Marcar o checkbox Periférico principal do combobox Tipo do periférico com o valor <perifericoPrincipalLeitorMifareEquipamentoEAEMifare>
+Marcar o checkbox Habilitar com o valor <habilitarPerifericoPrincipalLeitorMifareEquipamentoEAEMifare>
+Na seção Leitor mifare no combobox Modelo do leitor selecionar a opção <modeloLeitorMifareEquipamentoEAEMifare>
+Na seção Leitor mifare preencher o campo Porta serial com o valor <portaSerialLeitorMifareEquipamentoEAEMifare>
+Na seção Leitor mifare no combobox Modelo do bocal selecionar a opção <modeloDoBocalLeitorMifareEquipamentoEAEMifare>
+Na seção Leitor mifare preencher o campo Tempo de espera na esteira(ciclos/seg) com o valor <tempoDeEsperaNaEsteiraEquipamentoEAEMifare>
+Na seção Leitor mifare preencher o campo Tempo de aguardo para emissão(ciclos/seg) com o valor <tempoDeAguardoParaEmissaoEquipamentoEAEMifare>
+* Clicar no botão Adicionar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarEquipamentoDeEntradaEaeMifareStepByStepPageStep] [16899]
+No combobox Tipo do periférico selecionar a opção <leitorProximidadeEquipamentoEAEMifare>
+Marcar o checkbox Habilitar com o valor <habilitarLeitorProximidadeEquipamentoEAEMifare>
+Na seção Leitor de proximidade no combobox Modelo do leitor selecionar a opção <modeloLeitorProximidadeEquipamentoEAEMifare>
+Na seção Leitor de proximidade no campo Porta serial preencher com o valor <portaSerialLeitorProximidadeEquipamentoEAEMifare>
+* Clicar no botão Adicionar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarEquipamentoDeEntradaEaeMifareStepByStepPageStep] [16899]
+No combobox Tipo do periférico selecionar a opção <telaVgaEquipamentoEAEMifare>
+Marcar o checkbox Habilitar com o valor <habilitarTelaVgaEquipamentoEAEMifare>
+Na seção Placa VGA no combobox Resolução selecionar a opção <telaVgaResolucaoEquipamentoEAEMifare>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarEquipamentoDeEntradaEaeMifareStepByStepPageStep] [16899]
+Na seção Configurações de suporte marcar o checkbox Mostrar detalhes de espera após tecla acionada com o valor <mostrarDetalhesDeEsperaAposTeclaAcionadaEquipamentoEAEMifare>
+Na seção Configurações de suporte marcar o checkbox Alternar entre mensagem e detalhes de espera com o valor <alternarEntreMensagemEDetalhesDeEsperaEquipamentoEAEMifare>
+Na seção Configurações de suporte preencher o campo Tempo para mostrar detalhes de erro (seg) com o valor <tempoParaMostrarDetalhesDeErroEquipamentoEAEMifare>
+Na seção Configurações de suporte preencher o campo Tempo para mostrar detalhes de espera (seg) com o valor <tempoParaMostrarDetalhesDeEsperaEquipamentoEAEMifare>
+* Clicar no botão Salvar
+

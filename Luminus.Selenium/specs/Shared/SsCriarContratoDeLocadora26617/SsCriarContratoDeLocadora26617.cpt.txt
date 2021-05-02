@@ -1,0 +1,15 @@
+# SS - Criar contrato de locadora <tabela> [26617]
+Criado pelo gerador 03/11/2020 16:15:10
+
+[FAZER] Navegar para "TODO: CONFIGURAR"
+[FAZER] Clicar no botão Criar
+[FAZER] Preencher os campos da tela <tabela> [CriarContratoDeLocadoraStepByStepPageStep]
+Na seção Informações gerais preencher o campo Nome do contrato com o valor <nomeDoContratoContratoLocadora>
+Na seção Informações gerais clicar no combobox Tipo de calculo de excedente e selecionar o valor <tipoDeCalculoExcedenteContratoLocadora>
+Na seção Informações gerais preencher o campo Valor de mensalidade com o valor <valorMensalidadeContratoLocadora>
+Na seção Informações gerais preencher o campo Dia de vencimento com o valor <diaDeVencimentoContratoLocadora>
+Na seção Informações gerais preencher o campo Quantidade de vagas com o valor <quantidadeDeVagasContratoLocadora>
+Na seção Informações gerais clicar no combobox Tabela de cobrança e selecionar o valor <nometabelasdecobranca>
+[FAZER] Na seção Informações gerais selecionar a opção <nomeUsuarioSistema> e clicar no botão Mover ( -&gt; ) da dual listbox Não selecionados [CriarContratoDeLocadoraStepByStepPageStep]
+[FAZER] Clicar no botão Salvar
+

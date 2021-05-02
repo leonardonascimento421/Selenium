@@ -1,0 +1,39 @@
+# ST - Criar um emitente fiscal <tabela> [16986]
+Criado pelo gerador 28/11/2019 16:45:13
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela Criar um emitente fiscal <tabela>
+Na seção informações gerais clicar no combobox Estado e selecionar o valor <estadoSaoPauloEmitenteFiscal>
+Na seção informações gerais clicar no combobox Município e selecionar o valor <municipioSaoPauloEmitenteFiscal>
+Na seção Informações gerais preencher o campo Razão social com o valor <razaoSocialEmitenteFiscal>
+Na seção Informações gerais preencher o campo Nome Fantasia com o valor <nomeFantasiaEmitenteFiscal>
+Na seção Informações gerais preencher o campo CNPJ com o valor <cNPJEmitenteFiscal>
+Na seção Dados de endereço preencher o campo Logradouro com o valor <logradouradoEmitenteFiscal>
+Na seção Dados de endereço preencher o campo Número com o valor <numeroEmitenteFiscal>
+Na seção Dados de endereço preencher o campo Complemento com o valor <complementoEmitenteFiscal>
+Na seção Dados de endereço preencher o campo CEP com o valor <cEPEmitenteFiscal>
+Na seção Dados de endereço preencher o campo Fone com o valor <foneEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Inscrição municipal com o valor <inscricaoMunicipalEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Inscrição estadual com o valor <inscricaoEstadualEmitenteFiscal>
+Na seção Informações tributárias no combobox Regime tributário selecionar o valor <regimeTributarioEmitenteFiscal>
+Na seção Informações tributárias no combobox Tributação selecionar o valor <tributacaoEmitenteFiscal>
+Na seção Informações tributárias no combobox Operação selecionar o valor <operacaoEmitenteFiscal>
+Na seção Informações tributárias no combobox Incentivador cultural selecionar o valor <incentivardorCulturalEmitenteFiscal>
+Na seção Informações tributárias no combobox Tipo de recolhimento selecionar o valor <tipoRecolhimentoEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Alíquota de ISS com o valor <aliquotaISSEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Alíquota de PIS com o valor <aliquotaPISEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Alíquota de COFINS com o valor <aliquotaCOFINSEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Alíquota de INSS com o valor <aliquotaINSSEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Alíquota de ICMS com o valor <aliquotaICMSEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Alíquota de ICMS ST com o valor <aliquotaICMSSTEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Alíquota de CSLL com o valor <aliquotaCSLLEmitenteFiscal>
+Na seção Informações tributárias preencher o campo Alíquota de IR com o valor <aliquotaIREmitenteFiscal>
+Na seção Informações tributárias preencher o campo Descrição/dados complementares com o valor <descricaoDadosComplementaresEmitenteFiscal>
+Na seção Dados de segurança preencher o campo Código de segurança do contribuinte (CSC) com o valor <cSCEmitenteFiscal>
+Na seção Dados de segurança preencher o campo Token do CSC com o valor <tokenCSCEmitenteFiscal>
+Na seção Dados de segurança preencher o campo Número de série do certificado digital com o valor <numeroSerieCertificadoDigitalEmitenteFiscal>
+Na seção Dados de segurança preencher o campo Login de autenticação com o valor <loginAutenticacaoEmitenteFiscal>
+Na seção Dados de segurança preencher o campo Senha de autenticação com o valor <senhaAutenticacaoEmitenteFiscal>
+* Clicar no botão Salvar
+

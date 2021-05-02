@@ -1,0 +1,14 @@
+# ST - Criar uma integração TEF Pay&Go step by step <tabela> [16998]
+Criado pelo gerador 27/11/2019 04:39:20
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela Criar uma integração TEF Pay&Go step by step <tabela>
+Na seção Informações gerais preencher o campo Nome com o valor <nomeItegracaoTEFPayGo>
+Na seção Informações gerais no combobox Operadora TEF selecionar a opção <operadoraTEFIntegracaoTEFPayGo>
+Na seção Informações gerais no combobox Tipo de recibo TEF selecionar a opção <tipoDeReciboTEFItegracaoTEFPayGo>
+Na seção Operadora TEF:Pay&amp;Go no campo IP do servidor preencher com o valor <iPDoServidorItegracaoTEFPayGo>
+Na seção Operadora TEF:Pay&amp;Go no campo Timeout de comunicação preencher com o valor <timeoutDeComunicacaoItegracaoTEFPayGo>
+Na seção Operadora_TEF_Integração_TEF_Pay_Go marcar o checkbox Imprimir via do cliente em formato reduzido com o valor <imprimirViaDoClienteEmFormatoReduzidoItegracaoTEFPayGo>
+* Clicar no botão Salvar
+

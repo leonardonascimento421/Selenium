@@ -1,0 +1,11 @@
+﻿{
+  "BASEURL_AUTH": "http://test.app.localhost:44330",
+  "BASEURL_API": "http://test.app.localhost:9090/api",
+  "BASEURL_ODATA": "192.168.56.1:9091/odata",
+  "BASEURL_PLUGIN": "http://test.app.localhost:9092/plugin",
+  "BASEURL_COCKPIT": "http://test.app.localhost:4200",
+  "BASEURL_API_REVERSE_PROXY": "http://test.app.localhost:9080/api",
+  "BASEURL_ODATA_REVERSE_PROXY": "test.app.localhost:9081/odata",
+  "BASEURL_SEAL_REPORT": "http://test.app.localhost:1234",
+  "BASEURL_INFORMATIZADO": "http://test.app.localhost:8989/api"
+}

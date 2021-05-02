@@ -1,0 +1,27 @@
+# SS - Criar tabelas de cobrança <tabela> [16091]
+Criado pelo gerador 15/01/2020 11:58:14
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarTabelasDeCobrancaStepByStepPageStep]
+Na seção Informações gerais preencher o campo Número da tabela de cobrança com o valor <numerodatabeladecobrancatabelasdecobranca>
+Na seção Informações gerais preencher o campo Nome com o valor <nometabelasdecobranca>
+Na seção Informações gerais clicar no combobox Estrutura e selecionar o valor <nomeEstruturaCobranca>
+Na seção Informações gerais clicar no combobox Regra de cobrança e selecionar o valor <nomeRegrasDeCobranca>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarTabelasDeCobrancaStepByStepPageStep] [16091]
+No popup Adicionar tempo de tolerância por período marcar o checkbox Dias da semana <domingodiasdasemanatabelasdecobranca>
+No popup Adicionar tempo de tolerância por período marcar o checkbox Dias da semana <segundadiasdasemanatabelasdecobranca>
+No popup Adicionar tempo de tolerância por período marcar o checkbox Dias da semana <tercadiasdasemanatabelasdecobranca>
+No popup Adicionar tempo de tolerância por período marcar o checkbox Dias da semana <quartadiasdasemanatabelasdecobranca>
+No popup Adicionar tempo de tolerância por período marcar o checkbox Dias da semana <quintadiasdasemanatabelasdecobranca>
+No popup Adicionar tempo de tolerância por período marcar o checkbox Dias da semana <sextadiasdasemanatabelasdecobranca>
+No popup Adicionar tempo de tolerância por período marcar o checkbox Dias da semana <sabadodiasdasemanatabelasdecobranca>
+No popup Adicionar tempo de tolerância por período preencher o campo Vigente a partir de com o valor <vigenteapartirdeadicionartempodetoleranciaporperiodotabelasdecobranca>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarTabelasDeCobrancaStepByStepPageStep] [16091]
+Na tabela Estruturas em 'Estrutura 1 - Período 1 - Fração 1 ' preencher o campo Valor com o valor <valorfracao1periodo1tabelasdecobranca>
+Na tabela Estruturas em 'Estrutura 1 - Período 1 - Fração 2 ' preencher o campo Valor com o valor <valorfracao2periodo1tabelasdecobranca>
+Na tabela Estruturas em 'Estrutura 1 - Período 2 - Fração 1' preencher o campo Valor com o valor <valorfracao1periodo2tabelasdecobranca>
+* Clicar no botão Salvar
+

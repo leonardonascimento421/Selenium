@@ -1,0 +1,9 @@
+# SS - Efetuar Login no Portal do Conveniado <tabela> [26660]
+Criado pelo gerador 11/11/2020 18:40:41
+
+* Navegar para "TODO: CONFIGURAR"
+* Preencher os campos da tela <tabela> [EfetuarLoginNoPortalDoConveniadoStepByStepPageStep]
+Preencher no campo usuário com o valor <usuarioPortalDoConveniado>
+Preencher no campo senha com o valor <senhaPortalDoConveniado>
+* Clicar no botão entrar [EfetuarLoginNoPortalDoConveniadoStepByStepPageStep]
+

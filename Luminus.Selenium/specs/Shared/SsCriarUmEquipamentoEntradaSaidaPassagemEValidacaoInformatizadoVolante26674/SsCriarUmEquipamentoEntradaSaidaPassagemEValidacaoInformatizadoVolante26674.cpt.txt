@@ -1,0 +1,23 @@
+# SS - Criar um Equipamento Entrada, Saída, Passagem e Validação Informatizado Volante <tabela> [26674]
+Criado pelo gerador 06/11/2020 18:25:29
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoEntradaSaidaPassagemEValidacaoInformatizadoVolanteStepByStepPageStep]
+Na seção Informações gerais preencher o campo Número do equipamento com o valor <numeroEquipamentoVolanteInformatizado>
+Na seção Informações gerais preencher o campo Nome com o valor <nomeEquipamentoVolanteInformatizado>
+* Na seção Informações gerais o CheckBox Habilitado deve permanecer com o valor <habilitadoEquipamentoVolanteInformatizado> [CriarUmEquipamentoEntradaSaidaPassagemEValidacaoInformatizadoVolanteStepByStepPageStep]
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoEntradaSaidaPassagemEValidacaoInformatizadoVolanteStepByStepPageStep] [26674]
+Na seção Operação geral  selecionar no combobox Aplicativo do equipamento o valor <aplicativoEquipamentoVolanteInformatizado>
+Na seção Operação geral no campo Funções de operação marcar o CheckBox Entrada com o valor <funcaoOperacaoEntradaVolanteInformatizado>
+Na seção Operação geral no campo Funções de operação marcar o CheckBox Saída com o valor <funcaoOperacaoSaidaVolanteInformatizado>
+Na seção Operação geral no campo Funções de operação marcar o CheckBox Passagem com o valor <funcaoOperacaoPassagemVolanteInformatizado>
+Na seção Operação geral no campo Funções de operação marcar o CheckBox Validação com o valor <funcaoOperacaoValidacaoVolanteInformatizado>
+Na seção Configurações de informatizado clicar no combobox Tipo de informatizado selecionar o valor <tipoInformatizadoVolanteInformatizado>
+Na seção Configurações de informatizado clicar no combobox Usuário dos sistema responsável selecionar o valor <nomeUsuarioSistemaVolanteInformatizado>
+Na seção Operação de acesso preencher o campo Período de funcionamento 'Sem periodo definido'  com o valor <semPeriodoDefinidoVolanteInformatizado>
+Na seção Operação de acesso marcar o checkbox Possui escape/gate mode com o valor <possuiEscapeGateModeVolanteInformatizado>
+Na seção Operação de acesso clicar no combobox Acesso bolsão principal selecionar o valor <acessoBolsaoPrincipalVolanteInformatizado>
+Na seção Operação de acesso clicar no combobox Acesso bolsão secundario selecionar o valor <acessoBolsaoSecundarioVolanteInformatizado>
+* Clicar no botão Salvar
+

@@ -1,0 +1,15 @@
+# SS - Incluir mídia customizada em um contrato de estadia <tabela> [17952]
+Criado pelo gerador 09/03/2020 10:35:42
+
+* Clicar no menu de contexto (...) na linha contendo o valor "" na tabela
+* Clicar no botão Alterar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [IncluirMidiaCustomizadaEmUmContratoDeEstadiaStepByStepPageStep]
+No pop-up Adicionar mídia de acesso clicar no combobox Tipo da mídia de acesso e selecionar o valor <tipoDeMidiaDeAcessoCustomizadaContratoEstadia>
+No pop-up Adicionar mídia de acesso preencher o campo Código do cartão com o valor <codigoDoCartaoCustomizadoContratoEstadia>
+No pop-up Adicionar mídia de acesso preencher o campo Número com o valor <numeroCustomizadoContratoEstadia>
+No pop-up Adicionar mídia de acesso preencher o campo Customer com o valor <customerCustomizadoContratoEstadia>
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+

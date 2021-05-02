@@ -1,0 +1,28 @@
+# ST - Criar um equipamento validação (Informatizado) <tabela> [17616]
+Criado pelo gerador 03/12/2019 12:17:00
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoValidacaoInformatizadoStepByStepPageStep]
+Na seção Informações gerais preencher o campo Número do equipamento com o valor <numerodoequipamentoequipamentos>
+Na seção Informações gerais preencher o campo Nome com o valor <nomeValidacaoInformatizadoEquipamentos>
+Na seção Informações gerais preencher o campo Endereço IP com o valor <enderencoIPEquipamentosInformatizado>
+Na seção Informações gerais preencher o campo Máscara IP com o valor <mascaraIPValidacaoInformatizadoEquipamentos>
+Na seção Informações gerais preencher o campo IP do gateway com o valor <iPGatewayValidacaoInformatizadoEquipamentos>
+* Na seção Informações gerais o checkbox Habilitado deve permanecer com o valor <habilitadoValidacaoInformatizadoEquipamentos> [CriarUmEquipamentoValidacaoInformatizadoStepByStepPageStep]
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoValidacaoInformatizadoStepByStepPageStep] [17616]
+Na seção Operação geral  selecionar no combobox Aplicativo do equipamento o valor <listaAplicativoVersao>
+Na seção Operação geral no campo Funções de operação marcar o Checkbox Validação com o valor <funcaoOperacaoValidacaoInformatizadoEquipamentos>
+Na seção Configuração do informatizado selecionar o combobox Tipo de informatizado com o valor <tipoDeInformatizadoValidacaoEquipamentos>
+Na seção Operação de atendimento assistido marcar o checkbox Utilizar múltiplas moedas com o valor <utilizarMutiplasMoedasInformatizadoValidacaoEquipamentos>
+Na seção Operação de atendimento assistido marcar o checkbox Bloquear pagamentos com o valor <bloquearPagamentosInformatizadoValidacaoEquipamentos>
+* Na seção Periféricos clicar no botão adicionar [CriarUmEquipamentoValidacaoInformatizadoStepByStepPageStep]
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoValidacaoInformatizadoStepByStepPageStep] [17616]
+No pop-up, clicar no combobox Tipo do periférico e selecionar o valor <tipoDoPerifericoValidacaoInformatizado>
+Marcar o checkbox Periférico principal com o valor <perifericoPrincipalImpressoraValidacaoInformatizado>
+Marcar o checkBox Habilitar com o valor <habilitarPerifericoImpressoraValidacaoInformatizado>
+Na seção Impressora selecionar no combobox Modelo Impressora Equipamentos com o valor <modeloImpressoraValidacaoInformatizado>
+Na seção Impressora preencher o campo Porta serial com o valor <portaSerialImpressoraValidacaoInformatizadoEquipamentos>
+* Clicar no botão 'adicionar' [CriarUmEquipamentoValidacaoInformatizadoStepByStepPageStep]
+* Clicar no botão Salvar
+

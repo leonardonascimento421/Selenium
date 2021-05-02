@@ -1,0 +1,55 @@
+# SS - Criar um equipamento de passagem barcode (EAP) <tabela> [16918]
+Criado pelo gerador 26/12/2019 09:44:51
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoDePassagemBarcodeEapStepByStepPageStep]
+Na seção Informações gerais  preencher o campo Número do equipamento com o valor <numeroDoEquipamentoEquipamento>
+Na seção Informações gerais  preencher o campo Nome com o valor <nomeEquipamento>
+Na seção Informações gerais  preencher o campo Endereço IP com o valor <enderecoIPEquipamento>
+Na seção Informações gerais  preencher o campo Máscara IP com o valor <mascaraIPEquipamento>
+Na seção Informações gerais  preencher o campo IP do gateway com o valor <iPDoGatewayEquipamento>
+Na seção Informações gerais marcar o checkbox Habilitado do campo Modelo do equipamento com o valor <habilitadoEquipamento>
+Na seção Operação geral no combobox Aplicativo do equipamento selecionar a opção <aplicativoDoEquipamentoEquipamento>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Passagem com o valor <funcaoDeOperacaoPassagemAplicativoDoEquipamentoEquipamento>
+Na seção Operação geral no campo Limite de transações off-line marcar o checkbox Sem limite com o valor <semLimiteTransacoesOffLineEquipamento>
+Na seção Operação geral preencher o campo Número do setor spacenet com o valor <numeroDoSetorSpacenetEquipamento>
+Na seção Operação de acesso preencher o campo Das do rótulo Período de funcionamento com o valor <periodoDeFuncionamentoDasEquipamento>
+Na seção Operação de acesso preencher o campo ás do rótulo Período de funcionamento com o valor <periodoDeFuncionamentoAsEquipamento>
+Na seção Operação de acesso no combobox Modo de acionamento do equipamento selecionar a opção <modoDeAcionamentoDoEquipamentoEquipamento>
+Na seção Operação de acesso marcar o checkbox Detecção de moto com o valor <deteccaoDeMotoEquipamento>
+Na seção Operação de acesso marcar o checkbox Somente tag Nepos com o valor <somenteTagNeposEquipamento>
+Na seção Operação de acesso desmarcar o checkbox Possui escape/gate mode com o valor <possuiEscapeGateModeEquipamento>
+Na seção Operação de acesso no combobox Acesso bolsão principal selecionar a opção <nomeBolsaoDeVagas>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoDePassagemBarcodeEapStepByStepPageStep] [16918]
+No combobox Tipo do periférico selecionar a opção <leitorBarcode1D2DEquipamento>
+Marcar o checkbox Periférico principal do combobox Tipo do periférico com o valor <perifericoPrincipalLeitor1D2DEquipamento>
+Marcar o checkbox Habilitar com o valor <habilitarPerifericoPrincipalLeitor1D2DEquipamento>
+Na seção Leitor 1D/2D no combobox Modelo do leitor selecionar a opção <modeloLeitor1D2DEquipamento>
+Na seção Leitor 1D/2D preencher o campo Porta serial com o valor <portaSerialLeitor1D2DEquipamento>
+Na seção Leitor 1D/2D marcar o checkbox Habilitar laser contínuo com o valor <habilitarLaserContinuoEquipamento>
+Na seção Leitor 1D/2D marcar o checkbox Habilitar leitura de selo de desconto com o valor <habilitarLeituraDeSeloDeDescontoEquipamento>
+Na seção Leitor 1D/2D marcar o checkbox Habilitar verificação do digito verificador de mídias código de barras com o valor <habilitarVerificacaoDoDigitoVerificadorDeMidiasCodigoDeBarrasEquipamento>
+* Clicar no botão Adicionar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoDePassagemBarcodeEapStepByStepPageStep] [16918]
+No combobox Tipo do periférico selecionar a opção <leitorTagEquipamento>
+Desmarcar o checkbox Periférico principal com o valor <perifericoPrincipalLeitorTagEquipamento>
+Marcar o checkbox Habilitar com o valor <habilitarPerifericoLeitorTagEquipamento>
+Na seção Leitor tag Nepos no combobox Modelo da Tag selecionar a opção <modeloLeitorTagEquipamento>
+Na seção Leitor tag Nepos preencher o campo Endereço IP com o valor <enderecoIPLeitorTagEquipamento>
+Na seção Leitor tag Nepos preencher o campo Endereço IP com o valor <mascaraIPLeitorTagEquipamento>
+Na seção Leitor tag Nepos preencher o campo Endereço IP com o valor <iPDoGatewayLeitorTagEquipamento>
+Na seção Leitor tag Nepos no combobox Tipo de instalação operação da leitora/antena selecionar a opção <tipoDeInstalacaoOperacaoLeitoraAntenaLeitorTagEquipamento>
+Na seção Leitor tag Nepos preencher o campo Canal da antena conectado ao leitor com o valor <canalDaAntenaConectadoAoLeitorTagEquipamento>
+Na seção Leitor tag Nepos preencher o campo Ignorar leitura da mesma tag por (seg) com o valor <ignorarLeituraDaMesmaTagLeitorTagEquipamento>
+Na seção Leitor tag Nepos preencher o campo Considerar leituras realizadas há até (décimos de seg) com o valor <considerarLeiturasRealizadasHaAteDecimosTagLeitorTagEquipamento>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoDePassagemBarcodeEapStepByStepPageStep] [16918]
+Na seção Configurações de suporte marcar o checkbox Mostrar detalhes de espera após tecla acionada com o valor <mostrarDetalhesDeEsperaAposTeclaAcionadaEquipamento>
+Na seção Configurações de suporte marcar o checkbox Alternar entre mensagem e detalhes de espera com o valor <alternarEntreMensagemEDetalhesDeEsperaEquipamento>
+Na seção Configurações de suporte preencher o campo Tempo para mostrar detalhes de erro (seg) com o valor <tempoParaMostrarDetalhesDeErroEquipamento>
+Na seção Configurações de suporte preencher o campo Tempo para mostrar detalhes de espera (seg) com o valor <tempoParaMostrarDetalhesDeEsperaEquipamento>
+* Clicar no botão Salvar
+

@@ -1,0 +1,11 @@
+# SS - Criar tipos de ocorrências nas estadias não obrigatória <tabela> [16283]
+Criado pelo gerador 18/12/2019 02:02:39
+
+* Navegar para "TODO: CONFIGURAR"
+* Clicar no botão Criar
+* Na seção Informações Gerais preencher o campo Nome com o valor <nomeTipoDeOcorrenciaNasEstadias> [CriarTiposDeOcorrenciasNasEstadiasNaoObrigatoriaPageStep]
+* Clicar no botão Salvar
+* Verificar os campos da tela <tabela> [CriarTiposDeOcorrenciasNasEstadiasNaoObrigatoriaPageStep]
+Na seção Informações Gerais o checkbox Obrigar preenchimento da justificativa deve conter o valor <obrigarPreenchimentoDaJustificativaTiposDeOcorrenciasNasEstadias>
+Na seção Informações Gerais o checkbox Ocorrencia Padrão deve conter o valor <ocorrenciaPadraoTiposDeOcorrenciasNasEstadias>
+

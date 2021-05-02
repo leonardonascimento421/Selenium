@@ -1,0 +1,9 @@
+# ST - Excliur Aplicativos e versões <tabela> [16279]
+Criado pelo gerador 18/11/2019 15:38:16
+
+* Navegar para ""
+* Clicar no valor <listaAplicativoVersao> da listagem apresentada na tela
+* Clicar no menu de contexto (...) na linha contendo o valor <numeroDaVersaoAplicativoVersao> na tabela
+* Clicar no botão Excluir
+* Clicar no botão Excluir
+

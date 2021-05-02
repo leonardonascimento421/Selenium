@@ -1,0 +1,10 @@
+# ST - Criar perfil com acesso a AtedimentoValet <tabela> [17676]
+Criado pelo gerador 11/11/2019 15:09:45
+
+* Navegar para ""
+* Clicar no botao Criar
+* Preencher os campos da tela Criar perfil com acesso a AtedimentoValet [17676] <tabela>
+Na tela Criar perfil de acesso do sistema preencher o campo Nome com o valor <nomeperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel AtendimentoValet na categoria AtendimentoValet marcar o checkbox ConsultarVeiculos com o valor <consultarVeiculosperfisdeacessodosistema>
+* Clicar no botao Salvar
+

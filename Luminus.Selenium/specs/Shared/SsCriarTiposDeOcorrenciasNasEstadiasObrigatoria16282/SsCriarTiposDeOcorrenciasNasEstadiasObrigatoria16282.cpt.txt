@@ -1,0 +1,11 @@
+# SS - Criar tipos de ocorrências nas estadias obrigatória <tabela> [16282]
+Criado pelo gerador 18/12/2019 02:02:39
+
+* Navegar para "TODO: CONFIGURAR"
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarTiposDeOcorrenciasNasEstadiasObrigatoriaPageStep]
+Na seção Informações Gerais preencher o campo Nome com o valor <nomeTipoDeOcorrenciaNasEstadias>
+Na seção Informações Gerais marcar o checkbox Obrigar preenchimento da justificativa <obrigarPreenchimentoDaJustificativaTiposDeOcorrenciasNasEstadias>
+Na seção Informações Gerais marcar o checkbox Ocorrência obrigatória <ocorrenciaObrigatoriaTiposDeOcorrenciasNasEstadias>
+* Clicar no botão Salvar
+

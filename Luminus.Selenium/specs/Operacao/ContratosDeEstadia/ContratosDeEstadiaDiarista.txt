@@ -1,0 +1,134 @@
+﻿# Contratos de estadia diarista [17346]
+Criado pelo gerador 09/03/2020 10:35:42
+
+
+Carregar dependências Contratos De Estadia <table:resources/CriarDependenciasDeContratoDeEstadia.csv>
+SS - Criar um bolsão de vagas <table:resources/CriarDependenciasDeContratoDeEstadia.csv> [16266]
+SS - Criar uma Estrutura de cobrança <table:resources/CriarDependenciasDeContratoDeEstadia.csv> [16003]
+SS - Criar regras de cobrança <table:resources/CriarDependenciasDeContratoDeEstadia.csv> [16135]
+SS - Criar uma regra de acesso Entrada <table:resources/CriarDependenciasDeContratoDeEstadia.csv> [16330]
+SS - Criar uma regra de acesso Passagem <table:resources/CriarDependenciasDeContratoDeEstadia.csv> [16331]
+SS - Criar uma regra de acesso Saída <table:resources/CriarDependenciasDeContratoDeEstadia.csv> [16333]
+SS - Criar tabelas de cobrança <table:resources/CriarDependenciasDeContratoDeEstadia.csv> [16091]
+SS - Criar um produto estadia do tipo credenciado com tipo de revalidação quantidade de dias <table:resources/CriarDependenciasDeContratoDeEstadia.csv> [16346]
+
+,## Incluir Mídia VELOE em um contrato de estadia Produto estadia 'Dia do mês' [17384]
+[FEITO] ST - Criar clientes do estacionamento <table:resources/IncluirMidiaVeloeEmUmContratoDeEstadiaProdutoEstadiaDiaDoMes17384.csv> [16128]
+[FEITO] SS - Criar contrato de estadia Produto estadia 'Dia do mês' <table:resources/IncluirMidiaVeloeEmUmContratoDeEstadiaProdutoEstadiaDiaDoMes17384.csv> [17885]
+[FEITO] SS - Incluir mídia Barcode em um contrato de estadia <table:resources/IncluirMidiaVeloeEmUmContratoDeEstadiaProdutoEstadiaDiaDoMes17384.csv> [17845]
+[FEITO] SS - Incluir Mídia VELOE em um contrato de estadia Produto estadia 'Dia do mês' <table:resources/IncluirMidiaVeloeEmUmContratoDeEstadiaProdutoEstadiaDiaDoMes17384.csv> [17935]
+[FEITO] Clicar no botão Salvar
+[FEITO] Clicar no botão Salvar e Sair
+[FEITO] Clicar no menu de contexto (...) na linha contendo o valor "Contrato Cliente 17384" na tabela
+[FEITO] Clicar no botão Detalhar na listagem
+[FEITO] Verificar os campos da tela <table:resources/IncluirMidiaVeloeEmUmContratoDeEstadiaProdutoEstadiaDiaDoMes17384.csv> [ContratosDeEstadiaPageStep] [17384]
+Na seção Informações gerais o combobox Produto de estadia deve conter o valor "Contrato Produto Estadia Dia do mês"
+Na seção Informações gerais o combobox Cliente do estacionamento deve conter o valor "Contrato Cliente 17384"
+Na tabela/lista da seção Mídia de acesso deve conter os valores nas colunas Tipo da mídia de acesso, Identificação da mídia de acesso, Data da inclusão, Data da expiração e Status da mídia de acesso, respectivamente "8 - VELOE" "DEF5678" "" ""
+[FEITO] Clicar no botão Voltar
+
+,## Criar contrato de estadia Produto estadia 'Dia do mês' com Mídia OPNGO [17382]
+[FEITO] ST - Criar clientes do estacionamento <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaDoMesComMidiaOpngo17382.csv> [16128]
+[FEITO] SS - Criar contrato de estadia Produto estadia 'Dia do mês' <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaDoMesComMidiaOpngo17382.csv> [17885]
+[FEITO] SS - Incluir mídia Barcode em um contrato de estadia <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaDoMesComMidiaOpngo17382.csv> [17845]
+[FEITO] SS - Incluir mídia OpnGo em um contrato de estadia <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaDoMesComMidiaOpngo17382.csv> [17929]
+[FEITO] Clicar no botão Salvar
+[FEITO] Clicar no botão Salvar e Sair
+[FEITO] Clicar no menu de contexto (...) na linha contendo o valor "Contrato Cliente 17382" na tabela
+[FEITO] Clicar no botão Detalhar na listagem
+[FEITO] Verificar os campos da tela <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaDoMesComMidiaOpngo17382.csv> [ContratosDeEstadiaPageStep] [17381]
+Na seção Informações gerais o cambobox Produto de estadia deve conter o valor "Contrato Produto Estadia Dia do mês"
+Na seção Informações gerais o combobox Cliente do estacionamento deve conter o valor "Contrato Cliente 17382"
+Na seção Informações gerais o campo Vigente a partir de deve conter a data de criação DateTime_now 
+Na seção Mídia de acesso deve apresentar uma tabela com 2 itens (1 - Cartão código de barras sem horário de entrada e 10 - VeroGo )
+Na seção Aditamento deve apresentar a mensagem "Não há registros a serem exibidos"
+[FEITO] Clicar no botão Voltar
+
+,## Criar contrato de estadia Produto estadia 'Diarista' com Mídia Mifare [17369]
+[FEITO] ST - Criar clientes do estacionamento <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaristaComMidiaMifare17369.csv> [16128]
+[FEITO] SS - Criar contrato de estadia Produto Diarista <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaristaComMidiaMifare17369.csv> [17844]
+[FEITO] SS - Incluir mídia Mifare em um contrato de estadia <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaristaComMidiaMifare17369.csv> [17860]
+[FEITO] Clicar no botão Salvar
+[FEITO] Clicar no botão Salvar e Sair
+[FEITO] Clicar no menu de contexto (...) na linha contendo o valor "Contrato Cliente 17369" na tabela
+[FEITO] Clicar no botão Detalhar na listagem
+[FEITO] Verificar os campos da tela <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaristaComMidiaMifare17369.csv> [ContratosDeEstadiaPageStep] [17369]
+Na seção Informações gerais o cambobox Produto de estadia deve constar o valor "Produto de estadia Diarista"
+Na seção Informações gerais o combobox Cliente do estacionamento deve constar o valor "Selenium"
+Na sessão Mídias de acesso deve apresentar 
+[FEITO] Clicar no botão Voltar
+
+,## Realizar aditamento de contrato de estadia do produto de estadia 'Diarista' (Barcode) [17412]
+[FEITO] ST - Criar clientes do estacionamento <table:resources/RealizarAditamentoDeContratoDeEstadiaDoProdutoDeEstadiaDiaristaBarcode17412.csv> [16128]
+[FEITO] SS - Criar contrato de estadia Produto Diarista <table:resources/RealizarAditamentoDeContratoDeEstadiaDoProdutoDeEstadiaDiaristaBarcode17412.csv> [17844]
+[FEITO] SS - Incluir mídia Barcode em um contrato de estadia <table:resources/RealizarAditamentoDeContratoDeEstadiaDoProdutoDeEstadiaDiaristaBarcode17412.csv> [17845]
+[FEITO] SS - Aditamento de um contrato diarista <table:resources/RealizarAditamentoDeContratoDeEstadiaDoProdutoDeEstadiaDiaristaBarcode17412.csv> [17962]
+[FEITO] Clicar no botão Salvar
+[FEITO] Clicar no botão Salvar e Sair
+[FEITO] Clicar no menu de contexto (...) na linha contendo o valor "Contrato Cliente 17412" na tabela
+[FEITO] Clicar no botão Detalhar na listagem
+[FEITO] Verificar os campos da tela <table:resources/RealizarAditamentoDeContratoDeEstadiaDoProdutoDeEstadiaDiaristaBarcode17412.csv> [ContratosDeEstadiaPageStep] [17412]
+Na seção Informações gerais o cambobox Produto de estadia deve constar o valor "Produto de estadia Diarista"
+Na seção Informações gerais o combobox Cliente do estacionamento deve constar o valor "Selenium"
+Na seção Informações gerais no campo Válido até deve constar o valor "a data atual"
+Na sessão Mídias de acesso deve apresentar na coluna Tipo da mídia de acesso deve apresentar "2 - Cartão mifare" na coluna Identificação da mídia de acesso "10" na coluna Data da inclusão deve apresentar "a data de hoje" na coluna Data de expiração deve apresentar em branco na coluna Status da mídia de acesso deve apresentar 1 - Ativo
+Na seção Aditamento deve apresentar na coluna Data da validação deve constar o valor "a data de hoje" na coluna Valor da validação deve constar o valor "50,00" na coluna Meio de pagamento deve constar o valor "0 - Boleto" na coluna Valor recebido deve constar o valor "50,00" na coluna Validado até deve constar o valor "30/10/2019"
+[FEITO] Clicar no botão Voltar
+
+,## Aditamento de contrato de estadia de Produto de estadia 'Diarista' (Barcode) [17391]
+[FEITO] ST - Criar clientes do estacionamento <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaBarcode17391.csv> [16128]
+[FEITO] SS - Criar contrato de estadia Produto Diarista <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaBarcode17391.csv> [17844]
+[FEITO] SS - Incluir mídia Barcode em um contrato de estadia <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaBarcode17391.csv> [17845]
+[FEITO] SS - Aditamento de um contrato diarista <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaBarcode17391.csv> [17962]
+[FEITO] Clicar no botão Salvar
+[FEITO] Clicar no botão Salvar e Sair
+[FEITO] Clicar no menu de contexto (...) na linha contendo o valor "Contrato Cliente 17391" na tabela
+[FEITO] Clicar no botão Detalhar na listagem
+[FEITO] Verificar os campos da tela <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaBarcode17391.csv> [ContratosDeEstadiaPageStep] [17391]
+Na seção Informações gerais o cambobox Produto de estadia deve constar o valor "Produto de estadia Diarista"
+Na seção Informações gerais o combobox Cliente do estacionamento deve constar o valor "Selenium"
+Na sessão Mídias de acesso deve apresentar na coluna Tipo da mídia de acesso deve apresentar "2 - Cartão mifare" na coluna Identificação da mídia de acesso "10" na coluna Data da inclusão deve apresentar "a data de hoje" na coluna Data de expiração deve apresentar em branco na coluna Status da mídia de acesso deve apresentar 1 - Ativo
+[FEITO] Clicar no botão Voltar
+
+,## Criar contrato de estadia Produto estadia 'Diarista' [17363]
+[FEITO] ST - Criar clientes do estacionamento <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiarista17363.csv> [16128]
+[FEITO] SS - Criar contrato de estadia Produto Diarista <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiarista17363.csv> [17844]
+[FEITO] Clicar no menu de contexto (...) na linha contendo o valor "Contrato Cliente 17363" na tabela
+[FEITO] Clicar no botão Detalhar na listagem
+[FEITO] Verificar os campos da tela <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiarista17363.csv> [ContratosDeEstadiaPageStep] [17363]
+Na seção Informações gerais o cambobox Produto de estadia deve conter o valor "Contrato Produto de Estadia 17363"
+Na seção Informações gerais o combobox Cliente do estacionamento deve conter o valor "Contrato Cliente Fisica"
+[FEITO] Na seção Informações gerais o campo Vigente a partir de deve conter a data de criação DateTime_now [ContratosDeEstadiaPageStep]
+[FEITO] Na seção Mídia de acesso deve apresentar a mensagem Não há registros a serem exibidos [ContratosDeEstadiaPageStep]
+[FEITO] Na seção Aditamento deve apresentar a mensagem Não há registros a serem exibidos [ContratosDeEstadiaPageStep]
+[FEITO] Clicar no botão Voltar
+
+,## Criar contrato de estadia Produto estadia 'Diarista' com Mídia Barcode [17374]
+[FEITO] ST - Criar clientes do estacionamento <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaristaComMidiaBarcode17374.csv> [16128]
+[FEITO] SS - Criar contrato de estadia Produto Diarista <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaristaComMidiaBarcode17374.csv> [17844]
+[FEITO] SS - Incluir mídia Barcode em um contrato de estadia <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaristaComMidiaBarcode17374.csv> [17845]
+[FEITO] Clicar no botão Salvar
+[FEITO] Clicar no botão Salvar e Sair
+[FEITO] Clicar no menu de contexto (...) na linha contendo o valor "Contrato Cliente 17374" na tabela
+[FEITO] Clicar no botão Detalhar na listagem
+[FEITO] Verificar os campos da tela <table:resources/CriarContratoDeEstadiaProdutoEstadiaDiaristaComMidiaBarcode17374.csv> [ContratosDeEstadiaPageStep] [17374]
+Na seção Informações gerais o cambobox Produto de estadia deve constar o valor "Produto de estadia Diarista"
+Na seção Informações gerais o combobox Cliente do estacionamento deve constar o valor "Selenium"
+Na sessão Mídias de acesso deve apresentar na coluna Tipo da mídia de acesso deve apresentar "1 - Cartão código de barras sem horário de entrada" coluna Identificação da mídia de acesso "14" coluna Data da inclusão deve apresentar "a data de hoje" na coluna Data de expiração deve apresentar em branco na coluna Status da mídia de acesso deve apresentar 1 - Ativo
+[FEITO] Clicar no botão Voltar
+
+,## Aditamento de contrato de estadia de Produto de estadia 'Diarista' (Mifare) [17388]
+[FEITO] ST - Criar clientes do estacionamento <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaMifare17388.csv> [16128]
+[FEITO] SS - Criar contrato de estadia Produto Diarista <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaMifare17388.csv> [17844]
+[FEITO] SS - Incluir mídia Mifare em um contrato de estadia <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaMifare17388.csv> [17860]
+[FEITO] SS - Aditamento de um contrato diarista <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaMifare17388.csv> [17962]
+[FEITO] Clicar no botão Salvar
+[FEITO] Clicar no botão Salvar e Sair
+[FEITO] Clicar no menu de contexto (...) na linha contendo o valor "Contrato Cliente 17388" na tabela
+[FEITO] Clicar no botão Detalhar na listagem
+[FEITO] Verificar os campos da tela <table:resources/AditamentoDeContratoDeEstadiaDeProdutoDeEstadiaDiaristaMifare17388.csv> [ContratosDeEstadiaPageStep] [17388]
+Na seção Informações gerais o combobox Produto de estadia deve constar o valor "Produto de estadia Diarista"
+Na seção Informações gerais o combobox Cliente do estacionamento deve constar o valor "Selenium"
+Na sessão Mídias de acesso deve apresentar na coluna Tipo da mídia de acesso deve apresentar "2 - Cartão mifare" na coluna Identificação da mídia de acesso "10" na coluna Data da inclusão deve apresentar "a data de hoje" na coluna Data de expiração deve apresentar em branco na coluna Status da mídia de acesso deve apresentar 1 - Ativo
+Na seção Aditamento deve apresentarna coluna Data da validação deve constar o valor "a data de hoje" na coluna Valor da validação deve constar o valor "10,00" na coluna Meio de pagamento deve constar o valor "0 - Boleto" na coluna Valor recebido deve constar o valor "10,00" na coluna Validado até deve constar o valor "01/01/2020"
+[FEITO] Clicar no botão Voltar

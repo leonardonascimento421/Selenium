@@ -1,0 +1,11 @@
+# SS - Abrir estadia com mídia barcode <tabela> [26871]
+Criado pelo gerador 27/11/2020 13:58:48
+
+* Navegar para "TODO: CONFIGURAR"
+* Preencher os campos da tela <tabela> [AbrirEstadiaComMidiaBarcodeStepByStepPageStep]
+Na seção Abrir estadia selecionar a imagem com título 3 - Cartão código de barras com horário de entrada com valor <imgCodDeBarras>
+Na seção Abrir estadia selecionar o combobox Produto de estadia com valor <nomeProdutoEstadiaAvulso>
+Na seção Abrir estadia selecionar o combobox Bolsão de vagas com valor <nomeBolsaoDeVagas>
+Na seção Abrir estadia selecionar o combobox Tipo de veículo com valor <tipoDeVeiculoAtendimentoAssistido>
+* Clicar no botão confirmar [AbrirEstadiaComMidiaBarcodeStepByStepPageStep]
+

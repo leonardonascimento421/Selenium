@@ -1,0 +1,14 @@
+/bin
+obj/
+gauge-bin/
+logs/
+packages/
+reports/
+*.suo
+Luminus.Selenium.sln.ide
+.gauge/
+resources/*.*
+!resources/readme.txt
+prints/*.*
+browserSession/*.*
+result/

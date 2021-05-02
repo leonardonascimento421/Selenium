@@ -1,0 +1,11 @@
+# SS - Criar contrato de estadia Produto estadia 'Quantidade de dias' <tabela> [17859]
+Criado pelo gerador 09/03/2020 10:35:42
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarContratoDeEstadiaProdutoEstadiaQuantidadeDeDiasStepByStepPageStep]
+Na seção Informações gerais clicar no combobox Produto de estadia e selecionar o valor <nomeProdutoEstadiaQuantidadeDeDias>
+Na seção Informações gerais clicar no combobox Cliente do estacionamento e selecionar o valor <nomeClienteDoEstacionamento>
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+

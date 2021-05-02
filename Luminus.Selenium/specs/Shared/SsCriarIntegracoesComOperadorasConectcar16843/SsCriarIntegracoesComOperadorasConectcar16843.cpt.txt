@@ -1,0 +1,20 @@
+# SS - Criar integrações com operadoras(ConectCar) <tabela> [16843]
+Criado pelo gerador 11/12/2019 11:55:39
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarIntegracoesComOperadorasConectcarPageStep]
+Na seção Informações gerais preencher o campo Nome com o valor <nomeIntegracoesComOperadoras>
+Na seção Informações gerais no combobox Operador de arrecadação selecionar o valor <operadorDeArrecadacaoIntegracoesComOperadoras>
+Na seção Informações gerais no combobox Tipo de integração selecionar o valor <tipoDeIntegracaoIntegracoesComOperadoras>
+Na seção Informações gerais preencher o campo Ignorar leitura da mesma tag (seg) com o valor <ignorarLeituraDaMesmaTagIntegracoesComOperadoras>
+Na seção Informações gerais preencher o campo Tempo limite para confirmação da saída do veículo (seg) com o valor <tempoLimiteParaConfirmacaoDaSaidaDoVeiculoIntegracoesComOperadoras>
+Na seção Informações gerais marcar o checkbox Manter cancela aberta se acesso com mídia da operadora cancelado com o valor <manterCancelaAbertaSeAcessoComMidiaDaOperadoraCanceladoIntegracoesComOperadoras>
+Na seção Informações gerais marcar o checkbox Permitir operadora mudar tabela de cobrança com o valor <permitirOperadoraMudarTabelaDeCobrancaIntegracoesComOperadoras>
+Na seção Operadora de arrecadação: ConectCar preencher o campo Endereço IP do serviço com o valor <enderecoIPDoServicoIntegracoesComOperadoras>
+Na seção Operadora de arrecadação: ConectCar preencher o campo Porta com o valor <portaIntegracoesComOperadoras>
+Na seção Operadora de arrecadação: ConectCar preencher o campo Caminho com o valor <caminhoIntegracoesComOperadoras>
+Na seção Operadora de arrecadação: ConectCar preencher o campo Usuário com o valor <usuarioIntegracoesComOperadoras>
+Na seção Operadora de arrecadação: ConectCar preencher o campo Senha com o valor <senhaIntegracoesComOperadoras>
+* Clicar no botão Salvar
+

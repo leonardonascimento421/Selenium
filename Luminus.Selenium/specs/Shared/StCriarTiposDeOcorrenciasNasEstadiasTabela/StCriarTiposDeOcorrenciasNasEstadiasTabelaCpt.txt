@@ -1,0 +1,8 @@
+# ST - Criar tipos de ocorrências nas estadias não obrigatória <tabela> [16283]
+Criado pelo gerador 22/11/2019 11:26:49
+
+* Navegar para "TODO: CONFIGURAR"
+* Clicar no botão Criar
+* Na seção Informações Gerais preencher o campo Nome com o valor <nomeTipoDeOcorrenciaNasEstadias>
+* Clicar no botão Salvar
+

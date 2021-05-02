@@ -1,0 +1,43 @@
+# SS - Criar Produto de estadia - Pré-pago <tabela> [16395]
+Criado pelo gerador 17/02/2020 17:29:06
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarProdutoDeEstadiaPrePagoStepByStepPageStep]
+Na seção Informações gerais preencher o campo Nome com o valor <nomeprePagoprodutosdeestadia>
+Na seção Informações gerais clicar no combobox Tipo de usuário e selecionar o valor <tipodeusuarioprodutosdeestadia>
+Na seção Informações gerais preencher o campo Código do grupo com o valor <codigodogrupoprodutosdeestadia>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarProdutoDeEstadiaPrePagoStepByStepPageStep] [16395]
+Na seção Informações gerais do pop-up clicar no combobox Bolsão de vagas e selecionar o valor <nomeBolsaoDeVagas>
+Na seção Tabelas de cobrança clicar no combobox Tabela de cobrança principal e selecionar o valor <nometabelasdecobranca>
+Na seção Tabelas de cobrança marcar o checkbox Manter a tabela de cobrança(secundária) <manteratabeladecobrancasecundariaprodutosdeestadia>
+Na seção Tabelas de cobrança marcar o checkbox Equipamentos de passagem mantém tabela de cobrança da estadia <equipamentosdepassagemmantemtabeladecobrancadaestadiaprodutosdeestadia>
+Na seção Tabelas de cobrança para tempo de transito excedido marcar o checkbox Manter a tabela de cobrança(principal) <manteratabeladecobrancaexcedidaprincipalprodutosdeestadia>
+Na seção Tabelas de cobrança para tempo de transito excedido marcar o checkbox Manter a tabela de cobrança(secundária) <manteratabeladecobrancaexcedidasecundariaprodutosdeestadia>
+Na seção Regras de acesso clicar no combobox Entrada e selecionar o valor <nomeentradaregrasdeacesso>
+Na seção Regras de acesso clicar no combobox Passagem e selecionar o valor <nomepassagemregrasdeacesso>
+Na seção Regras de acesso clicar no combobox Saída e selecionar o valor <nomesaidaregrasdeacesso>
+* Clicar no botão Salvar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarProdutoDeEstadiaPrePagoStepByStepPageStep] [16395]
+No popup Adicionar regra de recarga preencher o campo Número da opção de recarga com o valor <numeroDaOpcaoDeRecargaprePagoprodutosdeestadia>
+No popup Adicionar regra de recarga preencher o campo Valor da recarga com o valor <valorDaRecargaprePagoprodutosdeestadia>
+No popup Adicionar regra de recarga preencher o campo Valor do pagamento com o valor <valorDoPagamentoprePagoprodutosdeestadia>
+No popup Adicionar regra de recarga preencher o campo Quantidade de dias de extensão de validade com o valor <quantidadeDeDiasDeExtesaoDeValidadeprePagoprodutosdeestadia>
+* Clicar no botão Salvar
+* Preencher os campos da tela <tabela> [CriarProdutoDeEstadiaPrePagoStepByStepPageStep] [16395]
+Na seção Regras de recarga marcar o checkbox Sugerir opção de recarga máxima <sugerirOpcaoDeRecargaMaximaprePagoprodutosdeestadia>
+Na seção Regras de recarga preencher o campo Quantidade de dias de validade inicial com o valor <quantidadeDeDiasdeValidadeInicialprePagoprodutosdeestadia>
+Na seção Regras de recarga preencher o campo Saldo mínimo com o valor <saldoMinimoprePagoprodutosdeestadia>
+Na seção Regras de recarga preencher o campo Saldo máximo com o valor <saldoMaximoprePagoprodutosdeestadia>
+Na seção Regras de recarga preencher o campo Saldo negativo limite ( - ) com o valor <saldoNegativoLimiteprePagoprodutosdeestadia>
+Na seção Regras de recarga preencher o campo Valor máximo diário com o valor <valorMaximoDiarioprePagoprodutosdeestadia>
+Na seção Regras de recarga preencher o campo Quantidade de utilizações diárias com o valor <quantidadeDeUtilizacoesDiariasprePagoprodutosdeestadia>
+Na seção Regras de recarga preencher o campo Tempo mínimo de utilização com o valor <tempoMinimoDeUtilizacaoprePagoprodutosdeestadia>
+Na seção Regras de recarga preencher o campo Tempo máximo de utilização com o valor <tempoMaximoDeUtilizacaoprePagoprodutosdeestadia>
+Na seção Regras de recarga preencher o campo Quantidade de dias sugerido para extensão da validade manual com o valor <quantidadeDeDiasSugeridoParaExtensaoDaValidadeManualprePagoprodutosdeestadia>
+Na seção Regras de recarga marcar o checkbox Sugerir opção de recarga para atingir saldo máximo <sugerirOpcaoDeRecargaParaAtingirSaldoMaximoprePagoprodutosdeestadia>
+Na seção Regras de recarga desmarcar o checkbox Habilitar tempo de bônus <habilitarTempoDeBonusprePagoprodutosdeestadia>
+* Clica no botão salvar [CriarProdutoDeEstadiaPrePagoStepByStepPageStep]
+

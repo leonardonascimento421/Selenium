@@ -1,0 +1,17 @@
+# ST - Detalhar aplicativo EAE/P/S <tabela> [16940]
+Criado pelo gerador 18/11/2019 15:38:16
+
+* Clicar no valor <listaAplicativoVersao> da listagem apresentada na tela
+* Clicar no menu de contexto (...) na linha contendo o valor <numeroDaVersaoAplicativoVersao> na tabela
+* Clicar no botão Detalhar
+* Verificar os campos da tela Detalhar aplicativo EAE/P/S <tabela>
+Na seção Informações do aplicativo o campo Sigla deve conter o valor <sigla>
+Na seção Informações do aplicativo o campo Nome deve conter o valor <nomeAplicativoVersao>
+Na seção Informações do aplicativo o campo Descrição deve conter o valor <descricaoAplicativo>
+* Na seção Informações do aplicativo com o rótulo Funções operacionais os checkbox Entrada,Passagem,Saída devem estar marcados e o campo Validação deve estar desmarcado.
+* Verificar os campos da tela Detalhar aplicativo EAE/P/S <tabela> [16940]
+Na seção Informações da versão o campo Número da versão deve conter o valor <numeroDaVersao>
+Na seção Informações da versão o campo Sistema operacional deve conter o valor <sistemaOperacional>
+Na seção Informações da versão o campo Arquivo de instalação deve conter o valor <aplicativoVersao>
+Na seção Informações da versão o campo Descrição deve conter o valor <descricaoVersao>
+

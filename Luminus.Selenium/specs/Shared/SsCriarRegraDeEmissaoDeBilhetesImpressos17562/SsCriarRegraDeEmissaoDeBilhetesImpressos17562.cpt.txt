@@ -1,0 +1,13 @@
+# SS - Criar regra de emissão de bilhetes impressos <tabela> [17562]
+Criado pelo gerador 28/10/2020 15:50:03
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarRegraDeEmissaoDeBilhetesImpressosPageStep]
+Na seção Informações gerais preencher o campo Nome com o valor <nomeEmissaoDeBilhetes>
+Na seção Cabeçalho preencher o campo Linha 1 com o valor <linha1CabecalhoEmissaoDeBilhetes>
+Na seção Cabeçalho preencher o campo Linha 2 com o valor <linha2CabecalhoEmissaoDeBilhetes>
+Na seção Rodapé preencher o campo Linha 1 com o valor <linha1RodapeEmissaoDeBilhetes>
+Na seção Rodapé preencher o campo Linha 2 com o valor <linha2RodapeEmissaoDeBilhetes>
+* Clicar no botão Salvar
+

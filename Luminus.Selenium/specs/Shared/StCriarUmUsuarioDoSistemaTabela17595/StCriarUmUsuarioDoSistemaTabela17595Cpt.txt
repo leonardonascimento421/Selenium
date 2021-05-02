@@ -1,0 +1,20 @@
+# ST - Criar um usuário do sistema <tabela> [17595]
+Criado pelo gerador 14/11/2019 14:28:30
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela Usuários do sistema <tabela> [17595]
+Na seção Informações gerais preencher o campo Nome com o valor <nomeUsuarioSistema>
+Na seção Informações gerais preencher o campo Email com o valor <emailUsuarioSistema>
+Na seção Informações gerais preencher o campo Login com o valor <loginUsuarioSistema>
+Na seção Informações gerais preencher o campo Celular com o valor <celularUsuarioSistema>
+Na seção Informações gerais selecionar no combobox Perfil de acesso o valor <nomePerfilPerfisAcessoSistema>
+* Na seção Informações gerais no campo Avatar clicar no botão Escolher arquivo
+* Digite na URL na barra de endereço o valor <caminhoArquivoUsuarioSistema>
+* Na seção Senha de acesso ao sistema, preencher os campos da tela Usuários do sistema <tabela> [17595]
+Selecionar a imagem <imagemUsuarioSistema> e clicar em Abrir
+Na seção Senha de acesso ao sistema preencher o campo Senha primeiro acesso com o valor <senhaPrimeiroAcessoUsuarioSistema>
+Na seção Senha de acesso ao sistema preencher o campo Confirmação de senha com o valor <confirmacaoSenhaUsuarioSistema>
+* Clicar no botão Salvar
+* Clicar no botão Salvar
+

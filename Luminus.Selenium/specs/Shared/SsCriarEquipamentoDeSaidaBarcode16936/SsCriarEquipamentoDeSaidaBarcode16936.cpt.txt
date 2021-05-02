@@ -1,0 +1,69 @@
+# SS - Criar Equipamento de Saída Barcode <tabela> [16936]
+Criado pelo gerador 26/12/2019 09:44:51
+
+* Navegar para ""
+* Deve redirecionar para a tela Consultar equipamentos [CriarEquipamentoDeSaidaBarcodePageStep]
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarEquipamentoDeSaidaBarcodePageStep]
+Na seção Informações gerais preencher o campo Número do equipamento com o valor <numerodoequipamentoequipamentos>
+Na seção Informações gerais preencher o campo Nome com o valor <nomeEASBarcodeequipamentos>
+Na seção Informações gerais preencher o campo Endereço IP com o valor <enderecoIPequipamentos>
+Na seção Informações gerais preencher o campo Máscara IP com o valor <mascaraIPequipamentos>
+Na seção Informações gerais preencher o campo IP do gateway com o valor <iPdogatewayequipamentos>
+Na seção Informações gerais marcar o checkbox Habilitado <habilitadoequipamentos>
+Na seção Operação geral clicar no combobox Aplicativo do equipamento e selecionar o valor <aplicativoVersao>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Saída com o valor <saidaequipamentos>
+Na seção Operação geral marcar o checkbox Sem limite <semlimiteequipamentos>
+Na seção Operação geral preencher o campo Número do setor spacenet com o valor <numerodosetorspacenetequipamentos>
+Na seção Operação de acesso preencher o campo das do rótulo Período de funcionamento com o valor <dasequipamentos>
+Na seção Operação de acesso preencher o campo as do rótulo Período de funcionamento com o valor <asequipamentos>
+Na seção Operação de acesso clicar no combobox Modo de acionamento do equipamento e selecionar o valor <mododeacionamentodoequipamentoequipamentos>
+Na seção Operação de acesso marcar o checkbox Detecção de moto <deteccaodemotoequipamentos>
+Na seção Operação de acesso marcar o checkbox Somente tag Nepos <somentetagNeposequipamentos>
+Na seção Operação de acesso marcar o checkbox Possui escape/gate mode <possuiescapegatemodeequipamentos>
+Na seção Operação de acesso marcar o checkbox Múltiplos equipamentos por acesso (3 ou mais equipamentos) <multiplosequipamentosporacesso3oumaisequipamentosequipamentos>
+Na seção Operação de acesso clicar no combobox Tipo de escape/gate mode e selecionar o valor <tipodeescapegatemodeequipamentos>
+Na seção Operação de acesso clicar no combobox Sentido do escape/gate mode e selecionar o valor <sentidodoescapegatemodeequipamentos>
+Na seção Operação de acesso clicar no combobox Acesso bolsão principal e selecionar o valor <nomeBolsaoDeVagas>
+Na seção Operação de acesso clicar no combobox Acesso bolsão secundário e selecionar o valor <nomeBolsaoDeVagas>
+Na seção Operação de acesso clicar no combobox Equipamento Escape/GateMode vínculado e selecionar o valor <equipamentoEscapeGateModevinculadoequipamentos>
+Na seção Configuração da cancela de saída marcar o checkbox Possui cancela <possuicancelaequipamentos>
+Na seção Configuração da cancela de saída marcar o checkbox Auto parada <autoparadaequipamentos>
+Na seção Configuração da cancela de saída marcar o checkbox Inicia nova transação com veículos sobre o laço de fechamento <inicianovatransacaocomveiculossobreolacodefechamentoequipamentos>
+Na seção Configuração da cancela de saída marcar o checkbox Inicia nova transação após fechamento total da cancela <inicianovatransacaoaposfechamentototaldacancelaequipamentos>
+Na seção Configuração da cancela de saída marcar o checkbox Existe laço para acionamento do equipamento <existelacoparaacionamentodoequipamentoequipamentos>
+Na seção Configuração da cancela de saída marcar o checkbox Existe laço de fechamento da cancela <existelacodefechamentodacancelaequipamentos>
+Na seção Configuração da cancela de saída marcar o checkbox Aguardar sinal de cancela fechada <aguardarsinaldecancelafechadaequipamentos>
+Na seção Configuração da cancela de saída preencher o campo Tempo limite para resposta da cancela (seg) com o valor <tempolimitepararespostadacancelasegequipamentos>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarEquipamentoDeSaidaBarcodePageStep] [16936]
+No popup Adicionar periférico clicar no combobox Tipo do periférico e selecionar o valor <tipodoperifericoperiferico1equipamentos>
+No popup Adicionar periférico marcar o checkbox Periférico principal <perifericoprincipalperiferico1equipamentos>
+No popup Adicionar periférico marcar o checkbox Habilitar <habilitarperiferico1equipamentos>
+Na seção Leitor 1D/2D clicar no combobox Modelo do leitor e selecionar o valor <modelodoleitorperiferico1equipamentos>
+Na seção Leitor mifare preencher o campo Porta serial com o valor <portaserialperiferico1equipamentos>
+Na seção Leitor 1D/2D marcar o checkbox Habilitar laser contínuo <habilitarlasercontinuoperiferico1equipamentos>
+Na seção Leitor 1D/2D marcar o checkbox Habilitar leitura de selo de desconto <habilitarleituradeselodedescontoperiferico1equipamentos>
+Na seção Leitor 1D/2D marcar o checkbox Habilitar verificação do digito verificador de mídias código de barras <habilitarverificacaododigitoverificadordemidiascodigodebarrasperiferico1equipamentos>
+* Clicar no botão Adicionar
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarEquipamentoDeSaidaBarcodePageStep] [16936]
+No popup Adicionar periférico clicar no combobox Tipo do periférico e selecionar o valor <tipodoperifericoperiferico2equipamentos>
+No popup Adicionar periférico marcar o checkbox Periférico principal <perifericoprincipalperiferico2equipamentos>
+No popup Adicionar periférico marcar o checkbox Habilitar <habilitarperiferico2equipamentos>
+Na seção Leitor tag Nepos clicar no combobox Modelo da Tag e selecionar o valor <modelodaTagequipamentos>
+Na seção Leitor tag Nepos preencher o campo Endereço IP com o valor <enderecoIPperiferico2equipamentos>
+Na seção Leitor tag Nepos preencher o campo Máscara IP com o valor <mascaraIPperiferico2equipamentos>
+Na seção Leitor tag Nepos preencher o campo IP do gateway com o valor <iPdogatewayperiferico2equipamentos>
+Na seção Leitor tag Nepos clicar no combobox Tipo de instalação operação da leitora/antena e selecionar o valor <tipodeinstalacaooperacaodaleitoraantenaperiferico2equipamentos>
+Na seção Leitor tag Nepos preencher o campo Canal da antena conectado ao leitor com o valor <canaldaantenaconectadoaoleitorperiferico2equipamentos>
+Na seção Leitor tag Nepos preencher o campo Ignorar leitura da mesma tag por (seg) com o valor <ignorarleituradamesmatagporsegperiferico2equipamentos>
+Na seção Leitor tag Nepos preencher o campo Considerar leituras realizadas há até (décimos de seg) com o valor <considerarleiturasrealizadashaatedecimosdesegperiferico2equipamentos>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarEquipamentoDeSaidaBarcodePageStep] [16936]
+Na seção Configurações de suporte marcar o checkbox Mostrar detalhes de espera após tecla acionada <mostrardetalhesdeesperaaposteclaacionadaequipamentos>
+Na seção Configurações de suporte marcar o checkbox Alternar entre mensagem e detalhes de espera <alternarentremensagemedetalhesdeesperaequipamentos>
+Na seção Configurações de suporte preencher o campo Tempo para mostrar detalhes de erro (seg) com o valor <tempoparamostrardetalhesdeerrosegequipamentos>
+Na seção Configurações de suporte preencher o campo Tempo para mostrar detalhes de espera (seg) com o valor <tempoparamostrardetalhesdeesperasegequipamentos>
+* Clicar no botão Salvar
+

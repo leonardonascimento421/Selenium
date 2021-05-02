@@ -1,0 +1,13 @@
+# ST - Criar uma integração TEF SITEF <tabela> [16962]
+Criado pelo gerador 27/11/2019 04:39:20
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela Criar uma integração TEF SITEF <tabela>
+Na seção Informações gerais preencher o campo Nome com o valor <nomeIntegracaoTEF>
+Na seção Informações gerais preencher o campo Operadora TEF com o valor <operadoraIntegracaoTEF>
+Na seção Informações gerais preencher o campo Tipo de recibo TEF com o valor <tipoDeReciboIntegracaoTEF>
+Na seção Operadora TEF: SITEF preencher o campo IP do servidor com o valor <iPDoServidorSITEFIntegracaoTEF>
+Na seção Operadora TEF: SITEF preencher o campo Código da loja com o valor <codigoDaLojaSITEFIntegracaoTEF>
+* Clicar no botão Salvar
+

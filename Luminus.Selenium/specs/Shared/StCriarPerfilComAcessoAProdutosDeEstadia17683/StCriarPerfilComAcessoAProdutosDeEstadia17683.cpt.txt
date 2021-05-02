@@ -1,0 +1,43 @@
+# ST - Criar perfil com acesso a Produtos de estadia <tabela> [17683]
+Criado pelo gerador 04/12/2019 00:00:00
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarPerfilComAcessoAProdutosDeEstadiaStepByStepPageStep]
+Na tela Criar perfil de acesso do sistema preencher o campo Nome com o valor <nomeperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Estruturas de tabelas de cobrança marcar o checkbox Consultar com o valor <consultarEstruturasDeTabelasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Estruturas de tabelas de cobrança marcar o checkbox Incluir com o valor <incluirEstruturasDeTabelasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Estruturas de tabelas de cobrança marcar o checkbox Alterar com o valor <alterarEstruturasDeTabelasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Estruturas de tabelas de cobrança marcar o checkbox Excluir com o valor <excluirEstruturasDeTabelasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Produtos de estadia marcar o checkbox Consultar com o valor <consultarProdutosDeEstadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Produtos de estadia marcar o checkbox Incluir com o valor <incluirProdutosDeEstadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Produtos de estadia marcar o checkbox Alterar com o valor <alterarProdutosDeEstadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Produtos de estadia marcar o checkbox Excluir com o valor <excluirProdutosDeEstadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Produtos de estadia marcar o checkbox Consultar com o valor <aplicarProdutosDeEstadiaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de acesso marcar o checkbox Consultar com o valor <consultarRegrasDeAcessoperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de acesso marcar o checkbox Incluir com o valor <incluirRegrasDeAcessoperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de acesso marcar o checkbox Alterar com o valor <alterarRegrasDeAcessoperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de acesso marcar o checkbox Excluir com o valor <excluirRegrasDeAcessoperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de cobrança marcar o checkbox Consultar com o valor <consultarRegrasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de cobrança marcar o checkbox Incluir com o valor <incluirRegrasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de cobrança marcar o checkbox Alterar com o valor <alterarRegrasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de cobrança marcar o checkbox Excluir com o valor <excluirRegrasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de cobrança marcar o checkbox Aplicar com o valor <aplicarRegrasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de Descontos marcar o checkbox Consultar com o valor <consultarRegrasDeDescontosperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de Descontos marcar o checkbox Incluir com o valor <incluirRegrasDeDescontosperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de Descontos marcar o checkbox Alterar com o valor <alterarRegrasDeDescontosperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de Descontos marcar o checkbox Excluir com o valor <excluirRegrasDeDescontosperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de Descontos marcar o checkbox Aplicar com o valor <aplicarRegrasDeDescontosperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de mídia perdida marcar o checkbox Consultar com o valor <consultarRegrasDeMidiaPerdidaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de mídia perdida marcar o checkbox Incluir com o valor <incluirRegrasDeMidiaPerdidaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de mídia perdida marcar o checkbox Alterar com o valor <alterarRegrasDeMidiaPerdidaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de mídia perdida marcar o checkbox Excluir com o valor <excluirRegrasDeMidiaPerdidaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Regras de mídia perdida marcar o checkbox Aplicar com o valor <aplicarRegrasDeMidiaPerdidaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Tabelas de cobrança marcar o checkbox Consultar com o valor <consultarTabelasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Tabelas de cobrança marcar o checkbox Incluir com o valor <incluirTabelasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Tabelas de cobrança marcar o checkbox Alterar com o valor <alterarTabelasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Tabelas de cobrança marcar o checkbox Excluir com o valor <excluirTabelasDeCobrancaperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Tipos de desconto marcar o checkbox Consultar com o valor <consultarTipoDeDescontoperfisdeacessodosistema>
+Na seção Habilitar funções do sistema no painel Produtos de estadia na categoria Tipos de desconto marcar o checkbox Alterar com o valor <alterarTipoDeDescontoperfisdeacessodosistema>
+* Clicar no botão Salvar
+

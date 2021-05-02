@@ -1,0 +1,11 @@
+# SS - Criar uma Multimídia (áudio) <tabela> [26414]
+Criado pelo gerador 30/10/2020 11:48:06
+
+* Navegar para ""
+* Clicar no botão Criar
+* Na seção Criar configuração de multimídia, preencher o campo Nome com o valor <nomeAudio> [CriarUmaMultimidiaAudioStepByStepPageStep]
+* Na seção Selecionar multimídia, clicar no botão Escolher arquivo para selecionar um áudio .wav [CriarUmaMultimidiaAudioStepByStepPageStep]
+* No Explorador de Arquivos inserir o caminho <caminhoArquivo> e clicar em Abrir [CriarUmaMultimidiaAudioStepByStepPageStep]
+* Selecionar o arquivo da pasta com valor <audio> e clicar em Abrir [CriarUmaMultimidiaAudioStepByStepPageStep]
+* Clicar no botão Salvar
+

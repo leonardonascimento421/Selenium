@@ -1,0 +1,13 @@
+# SS - Criar uma Apresentação Multimídia de Audio <tabela> [26422]
+Criado pelo gerador 05/11/2020 17:35:37
+
+* Navegar para ""
+* Clicar no botão Criar
+* Na seção Criar apresentações de multimídia, preencher o campo Nome da apresentação com o valor <nomeApresentacao> [CriarUmaApresentacaoMultimidiaDeAudioStepByStepPageStep]
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmaApresentacaoMultimidiaDeAudioStepByStepPageStep]
+Selecionar no ComboBox 'Multimídias' o valor <multimidia>. Esse valor deve ser algum valor de áudio.
+Selecionar no ComboBox 'Gatilho' o valor <gatilho>
+* Clicar no botão Adicionar
+* Clicar no botão Salvar
+

@@ -1,0 +1,13 @@
+# ST - Criar um bolsão de vagas <tabela> [16266]
+Criado pelo gerador 11/11/2019 15:09:45
+
+* Navegar para "UrlBolsaoListarPage"
+* Clicar no botão Criar
+* Preencher os campos da tela Bolsao Vagas [16266] <tabela>
+Na seção Criar bolsão de vagas preencher o campo Código com o valor <codigoBolsaoDeVagas>
+Na seção Criar bolsão de vagas preencher o campo Nome com o valor <nomeBolsaoDeVagas>
+Na seção Criar bolsão de vagas preencher o campo Quantidade de vagas com o valor <quantidadedevagasBolsaoDeVagas>
+Na seção Criar bolsão de vagas marcar o checkbox Bloquear acesso quando lotado <bloquearacessoquandolotadobolsaodevagas>
+Na seção Criar bolsão de vagas marcar o checkbox Habilitar Controle de Vagas por Setor <habilitarControledeVagasporSetorbolsaodevagas>
+* Clicar no botão Salvar
+

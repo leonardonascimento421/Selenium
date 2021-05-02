@@ -1,0 +1,29 @@
+# SS - Criar um equipamento entrada(EAE-Informatizado) <tabela> [17936]
+Criado pelo gerador 26/12/2019 09:44:51
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoEntradaEaeInformatizadoPageStep]
+Na seção Informações gerais  preencher o campo Número do equipamento com o valor <numeroDoEquipamentoEAEInformatizado>
+Na seção Informações gerais  preencher o campo Nome com o valor <nomeEquipamentoEAEInformatizado>
+Na seção Informações gerais  preencher o campo Endereço IP com o valor <enderecoIPEAEInformatizado>
+Na seção Informações gerais  preencher o campo Máscara IP com o valor <mascaraIPEAEInformatizado>
+Na seção Informações gerais  preencher o campo IP do gateway com o valor <iPDoGatewayEAEInformatizado>
+Na seção Informações gerais marcar o checkbox Habilitado do campo Modelo do equipamento com o valor <habilitadoEAEInformatizado>
+Na seção Operação geral no combobox Aplicativo do equipamento selecionar a opção <aplicativoDoEquipamentoEAEInformatizado>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Entrada com o valor <funcaoDeOperacaoEntradaAplicativoDoEquipamentoEAEInformatizado>
+Na seção Configuração do informatizado selecionar o combobox Tipo do informatizado com o valor <tipoDoInformatizadoEAEInformatizado>
+Na seção Operação de acesso preencher o campo das do rótulo Período de funcionamento com o valor <periodoDeFuncionamentoDasEAEInformatizado>
+Na seção Operação de acesso preencher o campo ás do rótulo Período de funcionamento com o valor <periodoDeFuncionamentoAsEAEInformatizado>
+Na seção Operação de acesso desmarcar o checkbox Possui escape/gate mode com o valor <possuiEscapeGateModeEAEInformatizado>
+Na seção Operação de acesso no combobox Acesso bolsão principal selecionar a opção <nomeBolsaoDeVagas>
+* Clicar no botão Adicionar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoEntradaEaeInformatizadoPageStep] [17936]
+No combobox Tipo do periférico selecionar a opção <impressoraEAEInformatizado>
+Marcar o checkbox Periférico principal do combobox Tipo do periférico com o valor <perifericoPrincipalImpressoraEAEInformatizado>
+Marcar o checkbox Habilitar com o valor <habilitarImpressoraEAEInformatizado>
+Na seção Impressora no combobox Modelo da impressora selecionar a opção <modeloDaImpressoraEAEInformatizado>
+Na seção Impressora preencher o campo Porta Serial com o valor <portaSerialEAEInformatizado>
+* Clicar no botão Adicionar
+* Clicar no botão Salvar
+

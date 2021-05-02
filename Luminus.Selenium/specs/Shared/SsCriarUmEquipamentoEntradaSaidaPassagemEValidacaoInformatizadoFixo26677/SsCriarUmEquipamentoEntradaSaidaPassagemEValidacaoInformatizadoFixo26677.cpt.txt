@@ -1,0 +1,24 @@
+# SS - Criar um Equipamento Entrada, Saída, Passagem e Validação Informatizado Fixo <tabela> [26677]
+Criado pelo gerador 06/11/2020 18:25:29
+
+* Navegar para ""
+* Clicar no botão Criar
+* Preencher os campos da tela <tabela> [CriarUmEquipamentoEntradaSaidaPassagemEValidacaoInformatizadoFixoStepByStepPageStep]
+Na seção Informações gerais  preencher o campo Número do equipamento com o valor <numeroDoEquipamentoInformatizadoFixo>
+Na seção Informações gerais  preencher o campo Nome com o valor <nomeEquipamentoInformatizadoFixo>
+Na seção Informações gerais  preencher o campo Endereço IP com o valor <enderecoIpInformatizadoFixo>
+Na seção Informações gerais  preencher o campo Máscara IP com o valor <mascaraIpInformatizadoFixo>
+Na seção Informações gerais  preencher o campo IP do gateway com o valor <iPDoGatewayInformatizadoFixo>
+Na seção Informações gerais marcar o checkbox Habilitado do campo Modelo do equipamento com o valor <habilitadoInformatizadoFixo>
+Na seção Operação geral no combobox Aplicativo do equipamento selecionar a opção <aplicativoInformatizadoFixo>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Entrada com o valor <funcaoDeOperacaoEntradaInformatizadoFixo>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Entrada com o valor <funcaoDeOperacaoSaidaInformatizadoFixo>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Entrada com o valor <funcaoDeOperacaoPassagemInformatizadoFixo>
+Na seção Operação geral no rótulo Funções de operação marcar o checkbox Entrada com o valor <funcaoDeOperacaoValidacaoInformatizadoFixo>
+Na seção Configuração do informatizado selecionar o combobox Tipo do informatizado com o valor <tipoDoInformatizadoInformatizadoFixo>
+Na seção Operação de acesso preencher o campo Sem Periodo Definido do rótulo Período de funcionamento com o valor <semPeriodoDeFuncionamentoInformatizadoFixo>
+Na seção Operação de acesso marcar o checkbox Possui escape/gate mode com o valor <possuiEscapeGateModeInformatizadoFixo>
+Na seção Operação de acesso no combobox Acesso bolsão principal selecionar a opção <nomeBolsaoPrincipalInformatizadoFixo>
+Na seção Operação de acesso no combobox Acesso bolsão principal selecionar a opção <nomeBolsaoSecundarioInformatizadoFixo>
+* Clicar no botão Salvar
+
