@@ -25,8 +25,9 @@ namespace Luminus.Selenium.specs.Manipulae
         [Step("Preencher os campos da tela de cadastro parte 1 <tabela>")]
         public void PreencherOsCamposDaTeladeCadastroParte1(Table tabela)
         {
+            var data = DateTime.Now.ToString("yyyyMMddHHmmssttt");
             var row = tabela.GetTableRows()[0];
-            _page.PreencherEmail(row.GetCell("email"));
+            _page.PreencherEmail(data + (row.GetCell("email")));
             _page.PreencherSenha(row.GetCell("senha"));
             _page.PreencherConfirmarSenha(row.GetCell("confirmarSenha"));
         }
@@ -41,8 +42,9 @@ namespace Luminus.Selenium.specs.Manipulae
         public void PreencherOsCamposDaTeladeCadastroParte2(Table tabela)
         {
             var row = tabela.GetTableRows()[0];
+            var data = DateTime.Now.ToString("ddHHmmss");
             _page.PreencherNomeCompleto(row.GetCell("nomeCompleto"));
-            _page.PreencherCelular(row.GetCell("celular"));
+            _page.PreencherCelular((row.GetCell("celular")) + data);
         }
 
         [Step("Clicar no botao cadastrar formulario")]
