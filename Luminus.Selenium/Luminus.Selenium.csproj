@@ -104,6 +104,8 @@
     <Compile Include="specs\Locadora\Contrato\ContratoPageStep.cs" />
     <Compile Include="specs\Locadora\FechamentoFatura\FechamentoFaturaPage.cs" />
     <Compile Include="specs\Locadora\FechamentoFatura\FechamentoFaturaPageStep.cs" />
+    <Compile Include="specs\Manipulae\ManipulaePage.cs" />
+    <Compile Include="specs\Manipulae\ManipulaePageStep.cs" />
     <Compile Include="specs\Operacao\AgendamentoDeTarefasAutomatizadas\AgendamentoDeTarefasAutomatizadasPage.cs" />
     <Compile Include="specs\Operacao\AgendamentoDeTarefasAutomatizadas\AgendamentoDeTarefasAutomatizadasPageStep.cs" />
     <Compile Include="specs\Operacao\ClientesDoEstacionamento\ClientesDoEstacionamentoPage.cs" />
@@ -659,6 +661,8 @@
     <None Include="specs\Locadora\FechamentoFatura\LiquidarUmaFaturaFechada23172.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="specs\Manipulae\Cadastro.csv" />
+    <None Include="specs\Manipulae\Manipulae.spec" />
     <None Include="specs\Operacao\ClientesDoEstacionamento\AlterarClientesDoEstacionamento15981.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
