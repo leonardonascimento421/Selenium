@@ -1,9 +1,0 @@
-# SS - Carregar arquivo com lista de cartões <tabela> [17572]
-Criado pelo gerador 15/01/2020 11:56:26
-
-* Navegar para ""
-* Clicar no botão Escolher arquivo [CarregarArquivoComListaDeCartoesStepByStepPageStep]
-* Digitar na URL da janela o valor <caminhoArquivoMifare> [CarregarArquivoComListaDeCartoesStepByStepPageStep]
-* Clicar no arquivo com o nome de <arquivoMifare> e clicar no botão Abrir [CarregarArquivoComListaDeCartoesStepByStepPageStep]
-* Clicar no botão carregar [CarregarArquivoComListaDeCartoesStepByStepPageStep]
-

@@ -1,9 +1,0 @@
-# SS - Aplicar uma regra de emissão de bilhetes impressos <tabela> [26714]
-Criado pelo gerador 04/11/2020 11:09:45
-
-* Navegar para ""
-* Clicar no botão de aplicar [AplicarUmaRegraDeEmissaoDeBilhetesImpressosStepByStepPageStep]
-* Na seção Identificação do equipamento selecionar o campo equipamento com o valor <selecionarEquipamentoRegraDeEmissao> [AplicarUmaRegraDeEmissaoDeBilhetesImpressosStepByStepPageStep]
-* Na seção Configurações e parâmetros específicos clicar no radiobutton com o valor <radiobuttonRegraDeEmissao> da regra <nomeEmissaoDeBilhetes> [AplicarUmaRegraDeEmissaoDeBilhetesImpressosStepByStepPageStep]
-* Clicar no botão Salvar
-

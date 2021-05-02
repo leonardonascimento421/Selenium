@@ -1,2 +1,0 @@
-"nome","quantidadeVagasMaior","bloquearAacesso","mensagemEsperada","codigo"
-"Teste números de vagas","0","false","O campo 'Quantidade de vagas' deve ter um valor entre 1 e 999999.","14"
