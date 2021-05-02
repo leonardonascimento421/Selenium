@@ -35,7 +35,7 @@ namespace Luminus.Selenium
             bool limparCache = Config.Aplicacao.LimparCache;
             bool headless = Config.Aplicacao.headless == "1";
 
-            DriverFactory.Initialize(new DriverCacheSingletonStrategy(), Config.Aplicacao.Browser, Config.Aplicacao.pathBrowser, headless, Config.Aplicacao.LogChromeDriver, Config.Aplicacao.LogBrowserVerbose, limparCache, Config.Aplicacao.PathBrowserSession, Config.Url.UrlLuminus);
+            DriverFactory.Initialize(new DriverCacheSingletonStrategy(), Config.Aplicacao.Browser, Config.Aplicacao.pathBrowser, headless, Config.Aplicacao.LogChromeDriver, Config.Aplicacao.LogBrowserVerbose, limparCache, Config.Aplicacao.PathBrowserSession, Config.Url.UrlManipulae);
 
             Luminus.Selenium.Utils.ScreenshotHelper.Initialize(Config.Aplicacao.PathPrints);
 

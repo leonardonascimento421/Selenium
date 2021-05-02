@@ -14,45 +14,9 @@ namespace Luminus.Selenium.specs.Manipulae
 {
     class ManipulaePageStep
     {
-        private IWebDriver _driver = DriverFactory.Driver;
-        private Dictionary<string, string> _dicUrls = new Dictionary<string, string>();
         private ManipulaePage _page = new ManipulaePage();
 
-
-        [Step("Acessar Url <nomeCampoUrl>")]
-        public void AcesssarUrl(string nomeCampoUrl)
-        {
-            string url = ObterUrl2(nomeCampoUrl);
-
-            url = Config.Url.UrlManipulae;
-
-            _driver.LoadPage(url);
-        }
-
-        private string ObterUrl2(string nomeCampoUrl)
-        {
-            string url;
-
-            CriarDicUrls2();
-
-            if (!_dicUrls.TryGetValue(nomeCampoUrl, out url))
-                throw new Exception($"Não foi possível encontrar a url para o campo {nomeCampoUrl} no arquivo de configuração 'config.json'");
-
-            return url;
-        }
-
-        private void CriarDicUrls2()
-        {
-            if (_dicUrls.Count != 0)
-                return;
-
-            var urls = Config.Url;
-
-            _dicUrls = urls.GetType().GetProperties()
-                .ToDictionary(x => x.Name, x => x.GetValue(urls)?.ToString());
-        }
-
-        [Step("Clicar no botão cadastrar")]
+        [Step("Clicar no botao cadastrar")]
         public void ClicarNoBotaoCadastrar()
         {
             _page.ClicarBotaoCadastrar();
@@ -62,24 +26,29 @@ namespace Luminus.Selenium.specs.Manipulae
         public void PreencherOsCamposDaTeladeCadastroParte1(Table tabela)
         {
             var row = tabela.GetTableRows()[0];
-            //_page.PreencherCodigo(row.GetCell("codigoBolsaoDeVagas"));
-            //_page.PreencherNome(row.GetCell("nomeBolsaoDeVagas"));
-            //_page.PreencherQuantidade(row.GetCell("quantidadedevagasBolsaoDeVagas"));
-            //_page.MarcarBloquearAcessoQuandoLotado(Convert.ToBoolean(row.GetCell("bloquearacessoquandolotadobolsaodevagas")));
-            //_page.MarcarHabilitarControleVagasPorSetor(Convert.ToBoolean(row.GetCell("habilitarControledeVagasporSetorbolsaodevagas")));
+            _page.PreencherEmail(row.GetCell("email"));
+            _page.PreencherSenha(row.GetCell("senha"));
+            _page.PreencherConfirmarSenha(row.GetCell("confirmarSenha"));
+        }
+
+        [Step("Clicar no botão proximo")]
+        public void ClicarNoBotaoProximo()
+        {
+            _page.ClicarBotaoProximo();
         }
 
         [Step("Preencher os campos da tela de cadastro parte 2 <tabela>")]
         public void PreencherOsCamposDaTeladeCadastroParte2(Table tabela)
         {
             var row = tabela.GetTableRows()[0];
-            //_page.PreencherCodigo(row.GetCell("codigoBolsaoDeVagas"));
-            //_page.PreencherNome(row.GetCell("nomeBolsaoDeVagas"));
-            //_page.PreencherQuantidade(row.GetCell("quantidadedevagasBolsaoDeVagas"));
-            //_page.MarcarBloquearAcessoQuandoLotado(Convert.ToBoolean(row.GetCell("bloquearacessoquandolotadobolsaodevagas")));
-            //_page.MarcarHabilitarControleVagasPorSetor(Convert.ToBoolean(row.GetCell("habilitarControledeVagasporSetorbolsaodevagas")));
+            _page.PreencherNomeCompleto(row.GetCell("nomeCompleto"));
+            _page.PreencherCelular(row.GetCell("celular"));
         }
 
-
+        [Step("Clicar no botao cadastrar formulario")]
+        public void ClicarNoBotaoCadastrarFormulario()
+        {
+            _page.ClicarBotaoCadastrarFormulario();
+        }
     }
 }

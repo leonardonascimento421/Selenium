@@ -42,6 +42,8 @@ namespace Luminus.Selenium.Utils
 
     public class Url
     {
+        public string UrlManipulae { get; set; }
+        public string UrlManipulaeEntrar { get; set; }
         public string UrlLuminus { get; set; }
         public string UrlLicencaPage { get; set; }
         public string UrlLicencaListarPage { get; set; }

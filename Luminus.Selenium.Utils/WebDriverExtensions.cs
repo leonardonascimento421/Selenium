@@ -121,15 +121,12 @@ namespace Selenium.Utils
         public static void SetText(this IWebDriver webDriver,
             By by, string text)
         {
-            AguardarLoading(webDriver);
             IWebElement webElement = webDriver.FindElement(by);
             webElement.Highlight();
-            webElement.ScrollToElement(webDriver);
             if (webElement.Enabled)
             {
                 webElement.Clear();
                 webElement.SendKeys(text);
-                AguardarLoading(webDriver);
             }
         }
 
@@ -158,10 +155,8 @@ namespace Selenium.Utils
 
         public static IWebElement Click(this IWebDriver webDriver, By by, TimeSpan timeout = default(TimeSpan))
         {
-            AguardarLoading(webDriver);
             IWebElement webElement = webDriver.FindElement(by);
             webElement.Highlight();
-            webElement.ScrollToElement(webDriver);
 
             EventHubHelper.Publish(Events.BeforeClick, webElement);
             // refresh no posicionamento do elemento
@@ -170,7 +165,6 @@ namespace Selenium.Utils
             EventHubHelper.Publish(Events.AfterClick, webElement);
             // TODO: Revisar Sleep para removê-lo
             Thread.Sleep((int)TimeoutAposClick.TotalMilliseconds);
-            AguardarLoading(webDriver, timeout);
             return webElement;
         }
 

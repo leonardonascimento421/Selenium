@@ -25,8 +25,10 @@
   "Constantes": { "MensagemTabelaVazia": "Não há registros a serem exibidos" },
 
   "Url": {
+    "UrlManipulae": "https://manipulae-webapp-test.azurewebsites.net/",
     "UrlLuminus": "http://localhost:4200/",
-	"UrlLuminusPortalDoConveniado": "http://localhost:4400/",
+    "UrlLuminusPortalDoConveniado": "http://localhost:4400/",
+    "UrlManipulaeEntrar": "entrar",
     "UrlLicencaPage": "seguranca/licencas/carregar",
     "UrlLicencaListarPage": "seguranca/licencas/consultar",
     "UrlLicencaInformarPage": "seguranca/licencas/informarlicenca",
@@ -76,9 +78,9 @@
     "UrlRegraDeEmissaoDeBilhetesImpressos": "configuracoesdoestacionamento/regrasdeemissaodebilhetesimpressos/consultar",
     "UrlContratoLocadoraPage": "locadora/contrato/consultar",
     "UrlFechamentoFaturaPage": "locadora/fechamento-fatura/consultar",
-	"UrlEstadiasAbertas": "operacao/estadiasabertas",
-	"UrlAtendimentoAssistidoAbertura": "atendimentoassistido/abrir-estadia/undefined/undefined/undefined/false",
-	"UrlApresentacaoMultimidiaListarPage": "customizacao/apresentacaomultimidia/consultar",
-	"UrlMultimidiaListarPage": "customizacao/multimidia/consultar"
+    "UrlEstadiasAbertas": "operacao/estadiasabertas",
+    "UrlAtendimentoAssistidoAbertura": "atendimentoassistido/abrir-estadia/undefined/undefined/undefined/false",
+    "UrlApresentacaoMultimidiaListarPage": "customizacao/apresentacaomultimidia/consultar",
+    "UrlMultimidiaListarPage": "customizacao/multimidia/consultar"
   }
 }

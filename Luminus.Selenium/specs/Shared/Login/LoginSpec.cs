@@ -19,10 +19,7 @@ namespace Luminus.Selenium.Implementation.Shared.Login
         [Step("Efetuar Login")]
         public void EfetuarLogin()
         {
-            _page.RedirecionarLogin(Config.Url.UrlLuminus);
-            _page.PreencherUsuario(Config.Aplicacao.usuario);
-            _page.PreencherSenha(Config.Aplicacao.senha);
-            _page.Processar();
+            _page.RedirecionarLogin(Config.Url.UrlManipulae);
         }
     }
 }

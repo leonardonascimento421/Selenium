@@ -28,13 +28,8 @@ namespace Luminus.Selenium.Implementation.Pages.Shared.Login
             Console.WriteLine($"Url navegação: {url}");
             _driver.Manage().Timeouts().PageLoad = TimeSpan.FromMinutes(5);
             _driver.Navigate().GoToUrl(url);
-
-            var wait = new WebDriverWait(_driver, TimeSpan.FromMinutes(5));
-            wait.Until(ExpectedConditions.UrlContains(Config.Aplicacao.PortaLoginIdentityServer));
-
             Console.WriteLine($"Url após navegação: {_driver.Url}");
             EventHubHelper.Publish(Events.Navigated, null);
-            WebDriverExtensions.AguardarLoading(_driver);
         }
     }
 }
