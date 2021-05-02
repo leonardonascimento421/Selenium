@@ -661,7 +661,9 @@
     <None Include="specs\Locadora\FechamentoFatura\LiquidarUmaFaturaFechada23172.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="specs\Manipulae\Cadastro.csv" />
+    <None Include="specs\Manipulae\Cadastro.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="specs\Manipulae\Manipulae.spec" />
     <None Include="specs\Operacao\ClientesDoEstacionamento\AlterarClientesDoEstacionamento15981.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

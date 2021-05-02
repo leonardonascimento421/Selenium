@@ -1,0 +1,2 @@
+"codigoMaiorPermitido","nome","quantidadeVagas","bloquearAacesso","mensagemEsperada"
+"15","Bolsão código invalido","110","true","O campo 'Código' deve ter um valor entre 1 e 14."
