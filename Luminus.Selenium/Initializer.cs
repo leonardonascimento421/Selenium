@@ -56,7 +56,7 @@ namespace Luminus.Selenium
                 limparCache = false;
                        
             if (string.IsNullOrWhiteSpace(parallelPhase))
-                new LoginSpec().EfetuarLogin();
+                new LoginSpec().AbrirPaginaInicial();
         }
 
         public static void CleanUp()

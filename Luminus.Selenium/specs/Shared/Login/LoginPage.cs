@@ -8,22 +8,7 @@ namespace Luminus.Selenium.Implementation.Pages.Shared.Login
 {
     public class LoginPage : BasePage
     {
-        public void PreencherUsuario(string valor)
-        {
-            _driver.SetText(By.Name("username"), valor.ToString());
-        }
-
-        public void PreencherSenha(string valor)
-        {
-            _driver.SetText(By.Name("password"), valor.ToString());
-        }
-
-        public void Processar()
-        {
-            _driver.Click(By.Id("submit"));
-        }
-
-        public void RedirecionarLogin(string url)
+        public void AbrirPaginaInicial(string url)
         {
             Console.WriteLine($"Url navegação: {url}");
             _driver.Manage().Timeouts().PageLoad = TimeSpan.FromMinutes(5);

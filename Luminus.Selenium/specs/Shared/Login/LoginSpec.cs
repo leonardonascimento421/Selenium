@@ -16,10 +16,9 @@ namespace Luminus.Selenium.Implementation.Shared.Login
         private LoginPage _page = new LoginPage();
         private IWebDriver _driver = DriverFactory.Driver;
 
-        [Step("Efetuar Login")]
-        public void EfetuarLogin()
+        public void AbrirPaginaInicial()
         {
-            _page.RedirecionarLogin(Config.Url.UrlManipulae);
+            _page.AbrirPaginaInicial(Config.Url.UrlManipulae);
         }
     }
 }

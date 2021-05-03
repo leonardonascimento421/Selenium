@@ -104,7 +104,6 @@
     </None>
     <None Include="specs\Manipulae\Manipulae.spec" />
     <None Include="specs\Shared\Listagem\Alterar_consultando_listagem.cpt" />
-    <None Include="specs\Shared\Login\Login.spec" />
     <None Include="specs\Shared\Listagem\Detalhar_consultando_listagem.cpt" />
   </ItemGroup>
   <ItemGroup>
