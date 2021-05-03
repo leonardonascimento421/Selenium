@@ -1,6 +1,7 @@
 {
   "Language": "csharp",
   "Plugins": [
-	"xml-report"
+    "xml-report",
+    "html-report"
   ]
 }

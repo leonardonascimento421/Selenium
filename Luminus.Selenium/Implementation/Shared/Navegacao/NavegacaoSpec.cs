@@ -20,7 +20,7 @@ namespace Luminus.Selenium.Implementation.Shared.Navegacao
         {
             string url = ObterUrl(nomeCampoUrl);
 
-            url = Path.Combine(Config.Url.UrlLuminus, url);
+            url = Path.Combine(Config.Url.UrlManipulae, url);
 
             _driver.LoadPage(url);
         }
@@ -38,7 +38,7 @@ namespace Luminus.Selenium.Implementation.Shared.Navegacao
         {
             string url = ObterUrl(nomeCampoUrl);
 
-            url = Path.Combine(Config.Url.UrlLuminus, url);
+            url = Path.Combine(Config.Url.UrlManipulae, url);
 
             _driver.Url.Should()
                 .Be(url);

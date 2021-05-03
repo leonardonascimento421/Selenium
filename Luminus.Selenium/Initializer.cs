@@ -39,8 +39,6 @@ namespace Luminus.Selenium
 
             Luminus.Selenium.Utils.ScreenshotHelper.Initialize(Config.Aplicacao.PathPrints);
 
-            ProcessadorMensagem.UrlBarramento = Config.Aplicacao.UrlBarramento;
-
             string parallelPhase = Environment.GetEnvironmentVariable("testtools_gauge_run_parallel_phase");
             Console.WriteLine($"Fase da execução em paralelo (testtools_gauge_run_parallel_phase): {parallelPhase}");
 

@@ -30,7 +30,7 @@ namespace Luminus.Selenium.Utils
         {
             string parallelPhase = Environment.GetEnvironmentVariable("testtools_gauge_run_parallel_phase");
             if (!string.IsNullOrWhiteSpace(parallelPhase) && parallelPhase != "1")
-                DriverFactory.Driver.LoadPage(Config.Url.UrlLuminus + "/home"); // redirecionando para home para preencher localStorage e sessionStorage
+                DriverFactory.Driver.LoadPage(Config.Url.UrlManipulae + "/home"); // redirecionando para home para preencher localStorage e sessionStorage
         }
 
         [BeforeScenario]
